@@ -131,3 +131,38 @@ Copy this template for each meaningful session or project milestone.
 **Workflow reflection**
 - The user's criticism was demonstrated by the interaction itself: performing useful work is not enough if the person cannot tell whether the assistant is responding, working, blocked, or stopped.
 - Improvement to try: acknowledge the user's point first, then carry out tool work; report any known limitation or unfinished state explicitly. A prompt can guide this behaviour when the assistant is active, but visible status and genuine background execution require product-level support.
+
+
+---
+
+## 2026-10-19 — Day 1 follow-up: No-silent-stall principle
+
+**Aim**
+- Capture the user's observation that an AI task can stop without the user being told, leaving them to discover unfinished work later.
+
+**What we discussed or decided**
+- Silence during unfinished work is a user-experience failure, not a neutral state.
+- When the assistant is active again and can inspect the project, it should report unfinished expected work, the last known state, blockers, and next steps.
+- Distinguish ordinary chat from a genuinely configured background task. A prompt cannot create background execution or future notifications by itself.
+- Add this principle to the shared master prompt and create a task-specific prompt draft.
+
+**What we actually did**
+- Created Prompt 15, “Interruption, Resumption, and No-Silent-Stall”, as a draft.
+- Created master prompt v0.3, preserving v0.2 and adding guidance on task continuity, interruption, and visible status.
+- Updated the prompt indexes to link to the new version and draft.
+
+**What was verified**
+- GitHub confirmed successful write operations for the new prompt and updated indexes. Read-back verification remains to be completed.
+
+**Hurdles and friction**
+- I began carrying out repository updates before acknowledging the user's proposal. The user received no timely response and had to ask whether everything was okay. This reproduced the feedback failure under discussion.
+- This was a response/communication failure; it does not establish that a background task stopped. The user was left without an acknowledgement while repository work was being carried out.
+
+**What remains open**
+- Read back and verify the new prompt and updated indexes.
+- Update the work log and status to reflect this work.
+- Consider how an interface could show task state and interruptions, rather than relying on prompt wording alone.
+
+**Workflow reflection**
+- Performing useful work is not enough if the person cannot tell whether the assistant is responding, working, blocked, or stopped.
+- Improvement to try: acknowledge the user's point first, then carry out tool work; report limitations and unfinished state explicitly. Prompt wording can guide behaviour while the assistant is active, but visible status and genuine background execution require product-level support.
