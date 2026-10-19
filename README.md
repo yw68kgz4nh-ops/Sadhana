@@ -2,6 +2,10 @@
 
 Sadhana is a research and development project exploring a more effective human–AI working partnership: reliable, transparent, accessible, continuous, and capable of making practical progress with less unnecessary work for the person.
 
+## The name
+
+See [Why we chose the name Sadhana](Sadhana_Name_and_Meaning.md) for the Sanskrit meaning, dictionary references, and our project interpretation: a place to land, learn, and move forward.
+
 ## Repository map
 
 - [Project management](project-management/README.md) — scope, status, and working agreements.
