@@ -293,3 +293,44 @@ Copy this template for each meaningful session or project milestone.
 **Workflow reflection**
 - A design conversation can generate useful decisions, but reliability requires recording them in the project journal and later implementing and verifying them.
 - The user should not need to ask repeatedly whether work is finished. A future interface should make task state visible, and the system must never promise background continuation or notifications unless those capabilities are actually configured.
+
+
+---
+
+## 2026-10-19 — Session: feedback reliability and assessed learning
+
+**Aim**
+- Record the principle that people must receive clear feedback on whether requests are underway, completed, incomplete, blocked, or verified; and establish a coursework workflow that assesses understanding and improves our own process.
+
+**What we discussed or decided**
+- Missing feedback makes a system feel unreliable because the person cannot tell what is happening or whether a result exists.
+- Meaningful requests should receive prompt acknowledgement, proportionate progress updates, and an explicit end state.
+- Completion and verification are different claims and must be reported separately.
+- Learning should include practical assignments at the end of a week or module, rubric-based marking, specific critique, opportunities for discussion or revision, and a review of the teaching and AI workflow itself.
+- Improvement should be evidence-led: identify what could have been better, change something specific, and check whether the change helped.
+
+**What we actually did**
+- Drafted master prompt v0.4 with explicit user-feedback and completion-communication principles.
+- Created a dedicated coursework assessment and continuous-improvement workflow.
+- Linked the new workflow from the teaching guide and schoolwork index.
+- Updated the prompt index to identify v0.4 as the current master version.
+
+**What was verified**
+- The GitHub write operations returned successful results for the new and updated files. Final read-back verification is still required before treating the updates as fully verified.
+
+**Hurdles and friction**
+- The user reported that both Grok and ChatGPT had left them without clear feedback about what was happening or whether work had completed. The reported impact is uncertainty and reduced trust; root causes are not established.
+- A useful answer or a saved file alone is insufficient if the user cannot distinguish acknowledgement, active work, completion, and verification.
+
+**What remains open**
+- Read back the new master prompt, assessment workflow, and updated indexes/guides.
+- Research additional university examples of short practical coursework and formative assessment before finalising the first pilot assignment.
+- Run the first assignment-and-marking cycle, then review the quality of both the learner feedback and our workflow.
+
+**Next steps**
+1. Verify the saved artifacts.
+2. Compare university examples of short module assignments, rubrics, and formative feedback.
+3. Use a small Week 1 assignment to pilot marking and process review.
+
+**Workflow reflection**
+- We need to tune both the learner's understanding and the system that teaches, marks, communicates, and improves. The latter should be assessed with the same honesty: a proposed improvement is not proven until it is tested.
