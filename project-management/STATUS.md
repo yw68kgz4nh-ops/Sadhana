@@ -17,6 +17,8 @@
 
 ## In progress
 
+- Read back and verify master prompt v0.3, Prompt 15, and updated prompt indexes.
+
 - Read back and verify master prompt v0.3, Prompt 15, and updated indexes.
 - Recovering the exact original wording of the earlier 13-prompt master library.
 - Reconciling conversation-only prompt drafts with repository versions.
