@@ -7,6 +7,10 @@ This folder is the single home for learning materials, lessons, assignments, fee
 - [Month 1: Human-Centred Design for AI Products](Month_1_Human_Centred_Design_for_AI_Products.md) — a four-week, beginner-friendly plan with 20 study sessions, practical assignments, review points, and a final mini-project.
 - [How We Will Teach and Learn](How_We_Will_Teach_and_Learn.md) — teaching principles and a practical lesson routine informed by Carnegie Mellon University's Eberly Center and research reviews.
 
+## Assessment and continuous improvement
+
+- [Coursework, Marking, and Continuous Improvement Workflow](Assessment_and_Improvement_Workflow.md) — the cycle for practical assignments, rubric-based marking, critique, revision, and review of our own process.
+
 ## Working rules
 
 - Carnegie Mellon University's Human-Computer Interaction Institute is the main academic reference for AI product design and human–AI interaction.
