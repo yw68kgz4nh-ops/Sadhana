@@ -8,23 +8,20 @@
 
 - GitHub integration can create files and read them back.
 - Initial repository folders and indexes are in place.
-- Shared AI Working Philosophy v0.2 is preserved in `prompts/master/`; master prompt v0.3 has been created with interruption-visibility guidance (read-back verification pending).
+- Shared AI Working Philosophy v0.2 is preserved in `prompts/master/`; master prompt v0.3 has been created with interruption-visibility guidance and read-back verified.
 - Reconstructed working drafts of Prompts 13 and 14 are saved with explicit provenance notes.
 - Initial use-case records SA-UX-001 through SA-UX-005 are saved and indexed.
 - Exploratory research record SA-RESEARCH-001 has been created.
-- Project work log and workflow diary are in place.
-- Prompt 15 draft has been created to address interruption, resumption, and silent task stoppage (read-back verification pending).
+- Prompt 15 draft has been created to address interruption, resumption, and silent task stoppage; the prompt and updated indexes have been read back and verified.
+- A research-backed [UI/UX first-month syllabus draft](../research/UI_UX_First_Month_Syllabus_Research_Draft.md) has been created, indexed, and read back. It draws on public university module outlines and is explicitly labelled as a proposal, not an official syllabus.
 
 ## In progress
 
-- Read back and verify master prompt v0.3, Prompt 15, and updated prompt indexes.
-
-- Read back and verify master prompt v0.3, Prompt 15, and updated indexes.
 - Recovering the exact original wording of the earlier 13-prompt master library.
 - Reconciling conversation-only prompt drafts with repository versions.
 - Adding more detailed evidence and test outcomes to use-case records.
 - Reviewing whether public visibility is appropriate for the complete project.
-- Preparing to research credible UI/UX/HCI course outlines and assessments before proposing a first-month learning plan.
+- Continue checking university course references and develop the syllabus into beginner-friendly lessons, exercises, and feedback criteria.
 
 ## Integrity rules
 
