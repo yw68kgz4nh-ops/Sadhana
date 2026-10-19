@@ -6,12 +6,13 @@ This folder contains task-specific prompts that support the shared master prompt
 
 - [Prompt 13 — Problem, Limitation and Solution Capture](Prompt_13_Problem_Limitation_and_Solution_Capture_draft.md) — reconstructed working draft.
 - [Prompt 14 — Verified Capability and Honest Execution](Prompt_14_Verified_Capability_and_Honest_Execution_draft.md) — reconstructed working draft.
+- [Prompt 15 — Interruption, Resumption, and No-Silent-Stall](Prompt_15_Interruption_Resumption_and_No_Silent_Stall_draft.md) — new draft prompted by the risk of silent task stoppage.
 
 ## Migration status
 
 The earlier **Master Prompt Library draft (13 prompts)** was created in a ChatGPT WritingBlock, but its complete source text has not yet been recovered as a verified file. It is not yet migrated in full.
 
-Prompts 13 and 14 above were reconstructed from project notes and are explicitly labelled drafts; they are not claimed to be verbatim copies of the earlier conversation drafts. Reconcile them against the original wording if it becomes available.
+Prompts 13–15 are working drafts and are not claimed to be verbatim copies of earlier conversation drafts. Reconcile them against original wording if it becomes available.
 
 ## Integrity rules
 
