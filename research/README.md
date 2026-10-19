@@ -5,6 +5,7 @@ Research questions, literature reviews, findings, and synthesis for the Sadhana 
 ## Current research records
 
 - [SA-RESEARCH-001 — Human–AI Working Partnership](SA-RESEARCH-001_Human_AI_Working_Partnership.md) — exploratory question, candidate measures, limitations, and next research tasks.
+- [UI/UX First-Month Syllabus — Research Draft](UI_UX_First_Month_Syllabus_Research_Draft.md) — a beginner-friendly four-week plan informed by public university module outlines and assessment patterns; clearly labelled as a proposal, not an official university syllabus.
 
 ## Suggested record contents
 
