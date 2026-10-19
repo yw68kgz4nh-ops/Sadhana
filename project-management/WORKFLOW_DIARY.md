@@ -244,3 +244,52 @@ Copy this template for each meaningful session or project milestone.
 **Workflow reflection**
 - “Best” should mean best supported for the specific goal, not a universal ranking or prestige alone. For this project, the direct relevance of CMU's published AI product design and human–AI interaction courses makes it a sensible primary reference.
 - The teaching approach must remain responsive: ask before assuming, use practice to reveal understanding, and change course when the evidence says the learner needs a different explanation.
+
+
+---
+
+## 2026-10-19 — Design session: floating islands, visible completion, and cross-device continuity
+
+**Aim**
+- Define how Sadhana should communicate progress and reliability visually, including unfinished work and completion across computer and phone.
+
+**What we discussed or decided**
+- Use a consistent three-state system throughout the product: blue for complete and verified; yellow for in progress; red for incomplete, failed, blocked, or interrupted.
+- Put a percentage at the centre of the floating-island/folder visual, using a meaningful progress calculation rather than a decorative or invented number.
+- Make islands feel elevated from the workspace using gradient separation, depth, layered shadows, subtle halos, and polished interaction details.
+- Share design tokens and status meanings across all sections and platforms, while adapting the layout to each device.
+- Make unfinished work visible: explain what is done, what remains, the next action, and whether resumption is automatic or requires the user's action.
+- When a project finishes, show a temporary desktop preview and, where supported and permitted, a phone notification. Tapping can open the result; dismissing the notification should not remove the saved file.
+- Use one reliable task record across devices. Queued, started, finished, and verified must be distinct states.
+- Keep the interface quiet: notify for meaningful completion or genuine problems, not every tiny internal step.
+
+**What we actually did**
+- Consolidated the user's ideas into a proposed product-design direction and shared status model in conversation.
+- Attempted to generate a visual mock-up of the percentage-centred floating island, but image generation was unavailable because of a tool limit.
+- Read the existing workflow diary and work log from GitHub and added this session to the diary and work log.
+
+**What was verified**
+- The existing work log and diary were fetched from the repository before adding this entry.
+- This entry records the design discussion, not a completed software implementation.
+
+**Hurdles and friction**
+- The user cannot reliably tell whether work has finished without asking, creating unnecessary interruption and interaction overhead.
+- ChatGPT's ordinary conversation interface does not allow the assistant to create a true automatically appearing floating window or independently deliver phone push notifications. Those behaviours require a suitable Sadhana application, background task mechanism, sync, and notification permissions.
+- A proposal and an illustrative mock-up are not proof of implementation. No design-system specification or working UI has yet been saved or verified as part of this session.
+
+**What remains open**
+- Write and save the shared design-system specification.
+- Define measurable progress units and lifecycle rules, including mixed states when some items in a folder are complete and others are not.
+- Prototype the floating island, percentage, preview dismissal, and accessible status cues.
+- Design and test the cross-device task-state sync and notification architecture.
+- Verify all saved implementation artifacts before marking them blue/complete.
+
+**Next steps**
+1. Create the design-system specification and link it from the project indexes.
+2. Define the task state machine and progress calculation.
+3. Prototype the floating-island interface.
+4. Investigate platform-specific notification and sync constraints.
+
+**Workflow reflection**
+- A design conversation can generate useful decisions, but reliability requires recording them in the project journal and later implementing and verifying them.
+- The user should not need to ask repeatedly whether work is finished. A future interface should make task state visible, and the system must never promise background continuation or notifications unless those capabilities are actually configured.
