@@ -12,6 +12,10 @@ Use this log for concise, dated summaries of meaningful project work. It is not 
 - Added a project status file and verified repository files through read-back.
 - Created the [Workflow Diary](WORKFLOW_DIARY.md), including a Day 1 recap and a reusable session-close template.
 
+- Added Prompt 15 draft on interruption, resumption, and no-silent-stall behaviour.
+- Created master prompt v0.3, preserving v0.2 and adding guidance for visible task state and honest resumption.
+- Recorded a response delay as a workflow friction point in the diary: repository work began before the user received an acknowledgement.
+
 ### Research framing added
 - Added exploratory question SA-RESEARCH-001: whether a structured human–AI working system can reduce user effort while improving continuity, reliability, and trust.
 - Marked the question as exploratory. No claim of novelty or demonstrated effectiveness is made.
