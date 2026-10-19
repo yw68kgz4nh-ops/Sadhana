@@ -10,6 +10,7 @@ Use this log for concise, dated summaries of meaningful project work. It is not 
 - Saved reconstructed draft versions of Prompts 13 and 14, labelled so they are not confused with recovered originals.
 - Created and indexed five draft user-experience records, SA-UX-001 through SA-UX-005.
 - Added a project status file and verified repository files through read-back.
+- Created the [Workflow Diary](WORKFLOW_DIARY.md), including a Day 1 recap and a reusable session-close template.
 
 ### Research framing added
 - Added exploratory question SA-RESEARCH-001: whether a structured human–AI working system can reduce user effort while improving continuity, reliability, and trust.
