@@ -29,3 +29,16 @@ Use this log for concise, dated summaries of meaningful project work. It is not 
 
 ### Reporting standard
 Every entry should distinguish work that was discussed, drafted, attempted, completed, and verified. Only report verification where a check was actually performed.
+
+
+## 2026-10-19 — UI/UX syllabus research draft
+
+### Completed and verified
+- Reviewed public university module descriptions for UX/interaction design and HCI from the Universities of Leeds, Edinburgh, Bath, Kent, and Cardiff.
+- Created [UI/UX First-Month Syllabus — Research Draft](../research/UI_UX_First_Month_Syllabus_Research_Draft.md), with four weeks of learning, practical deliverables, a beginner feedback rubric, source links, and explicit limitations.
+- Indexed the syllabus draft in the research README.
+- Read back the new syllabus and checked the updated status/index content.
+
+### Important qualification
+- This is a proposed beginner programme informed by university module outlines, not an official university syllabus or accredited course.
+- The earlier planned research was not completed before the user returned and asked about it. The syllabus draft was produced during this live session; no claim is made that it was completed while the user was away.
