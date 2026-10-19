@@ -4,7 +4,8 @@ This is the authoritative repository location for Sadhana prompts.
 
 ## Structure
 
-- [Master prompt](master/Shared_AI_Working_Philosophy_v0.2.md) — the current shared working philosophy, copied from the available Library source.
+- [Master prompt v0.3](master/Shared_AI_Working_Philosophy_v0.3.md) — current shared working philosophy, including interruption visibility and resumption.
+- [Master prompt v0.2](master/Shared_AI_Working_Philosophy_v0.2.md) — preserved earlier version.
 - [Prompt library index](library/README.md) — inventory and migration status for task-specific prompts.
 
 ## Versioning rule
@@ -13,4 +14,4 @@ Do not silently overwrite a meaningful prior version. When a prompt changes mate
 
 ## Migration status
 
-The current shared working-philosophy prompt has been copied and will be verified. Other prompt drafts discussed in ChatGPT conversations are not all available as complete source files yet, so they must be reconciled before being described as fully migrated.
+The current working-philosophy prompt is versioned in the repository. Other prompt drafts discussed in ChatGPT conversations are not all available as complete source files yet, so they must be reconciled before being described as fully migrated.
