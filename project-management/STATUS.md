@@ -8,14 +8,16 @@
 
 - GitHub integration can create files and read them back.
 - Initial repository folders and indexes are in place.
-- Shared AI Working Philosophy v0.2 has been copied into `prompts/master/` and read back.
+- Shared AI Working Philosophy v0.2 is preserved in `prompts/master/`; master prompt v0.3 has been created with interruption-visibility guidance (read-back verification pending).
 - Reconstructed working drafts of Prompts 13 and 14 are saved with explicit provenance notes.
 - Initial use-case records SA-UX-001 through SA-UX-005 are saved and indexed.
 - Exploratory research record SA-RESEARCH-001 has been created.
-- Project work log has been created to record meaningful changes and open work.
+- Project work log and workflow diary are in place.
+- Prompt 15 draft has been created to address interruption, resumption, and silent task stoppage (read-back verification pending).
 
 ## In progress
 
+- Read back and verify master prompt v0.3, Prompt 15, and updated indexes.
 - Recovering the exact original wording of the earlier 13-prompt master library.
 - Reconciling conversation-only prompt drafts with repository versions.
 - Adding more detailed evidence and test outcomes to use-case records.
