@@ -15,3 +15,7 @@ Do not silently overwrite a meaningful prior version. When a prompt changes mate
 ## Migration status
 
 The current working-philosophy prompt is versioned in the repository. Other prompt drafts discussed in ChatGPT conversations are not all available as complete source files yet, so they must be reconciled before being described as fully migrated.
+
+## Current master prompt
+
+- [Shared AI Working Philosophy v0.4](master/Shared_AI_Working_Philosophy_v0.4.md) — adds explicit request acknowledgement, progress feedback, completion/verification distinctions, and honest failure/unfinished-task reporting. Version 0.3 remains preserved for history.
