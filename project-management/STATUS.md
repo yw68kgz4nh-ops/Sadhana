@@ -7,7 +7,7 @@
 
 ## Current task status
 
-- 🟡 **AWAITING VERIFICATION** — Shared Task Status and Colour System specification: drafted and saved to GitHub; read-back verification is the next action.
+- 🔵 **COMPLETE — VERIFIED** — Shared Task Status and Colour System specification: saved to GitHub and read back; checked that the three colour meanings, unfinished-task requirements, pilot checklist, and index links are present.
 - 🔴 **NOT STARTED** — Pilot the markers on several real project tasks and assess whether they make unfinished work easier to spot.
 - 🔴 **NOT STARTED** — Research university examples of short practical assignments and marking rubrics, then design the first Week 1 assessment pilot.
 - 🔴 **NOT STARTED** — Finish and verify the remaining Week 1 lesson files and index.
