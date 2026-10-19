@@ -11,7 +11,6 @@ Use this log for concise, dated summaries of meaningful project work. It is not 
 - Created and indexed five draft user-experience records, SA-UX-001 through SA-UX-005.
 - Added a project status file and verified repository files through read-back.
 - Created the [Workflow Diary](WORKFLOW_DIARY.md), including a Day 1 recap and a reusable session-close template.
-
 - Added Prompt 15 draft on interruption, resumption, and no-silent-stall behaviour.
 - Created master prompt v0.3, preserving v0.2 and adding guidance for visible task state and honest resumption.
 - Recorded a response delay as a workflow friction point in the diary: repository work began before the user received an acknowledgement.
@@ -30,7 +29,6 @@ Use this log for concise, dated summaries of meaningful project work. It is not 
 ### Reporting standard
 Every entry should distinguish work that was discussed, drafted, attempted, completed, and verified. Only report verification where a check was actually performed.
 
-
 ## 2026-10-19 — UI/UX syllabus research draft
 
 ### Completed and verified
@@ -42,7 +40,6 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 ### Important qualification
 - This is a proposed beginner programme informed by university module outlines, not an official university syllabus or accredited course.
 - The earlier planned research was not completed before the user returned and asked about it. The syllabus draft was produced during this live session; no claim is made that it was completed while the user was away.
-
 
 ## 2026-10-19 — Carnegie Mellon focus and dedicated schoolwork folder
 
@@ -58,7 +55,6 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - The prior draft was archived rather than erased from history; unrelated Sadhana work was left untouched.
 - The new files and updated records still require a final read-back check.
 
-
 ## 2026-10-19 — Unified floating-island UI and visible task-state design
 
 ### Discussed and decided
@@ -71,16 +67,15 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Treat these as shared design-system requirements rather than one-off styling choices.
 
 ### Status and qualification
-- These are design decisions discussed in the conversation; they have **not yet been implemented or committed as a design-system specification**.
+- These were originally design decisions discussed in conversation. The shared task-status semantics are now documented in [Task Status and Colour System](Task_Status_and_Colour_System.md); software UI, automatic status calculation, sync, and notifications remain unimplemented.
 - No floating-island UI, live percentage indicator, cross-device sync, or phone push notification has been built or verified in this session.
 - The illustrative 60% example shown in conversation was explicitly not a measured progress value.
 
 ### Next steps
-1. Create a shared design-system specification covering status semantics, progress calculation, island depth/halo, accessible labels, responsive behaviour, and notification rules.
+1. Use the status markers on real project tasks and review whether they help.
 2. Define task lifecycle transitions and the evidence required before a task may be marked complete.
 3. Prototype the floating island and preview interaction.
 4. Investigate feasible desktop/phone sync and notification architecture before promising delivery behaviour.
-
 
 ## 2026-10-19 — Feedback reliability and assessed-learning workflow
 
@@ -90,5 +85,25 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Linked the assessment workflow from the teaching guide and schoolwork README, and identified v0.4 in the prompt index.
 
 ### Status
-- Write operations succeeded. Read-back verification remains pending.
+- The relevant writes were made; see the corresponding current records for the latest verification state.
 - The university comparison for short practical assignments and rubrics, and the first Week 1 assessment pilot, remain open.
+
+## 2026-10-19 — Shared task status and colour system: document prototype
+
+### User-led decision
+- Apply the status colour system to the project documents now rather than waiting for the software implementation.
+- Use GitHub documents as a low-cost first prototype: make finished, unfinished, blocked, and unverified work visible, then evaluate whether the system helps in actual use.
+- Keep status meanings consistent with the future floating-island/task-state design.
+
+### Completed
+- Created [Task Status and Colour System](Task_Status_and_Colour_System.md), specifying the blue/yellow/red meanings, text labels, task states, evidence required for verification, unfinished-task reporting, progress-percentage rules, and a pilot checklist.
+- Updated the project status to show current open work with explicit status markers.
+- Added navigation to the status specification.
+
+### Verification
+- The new specification and the updated status/work-log/index files must be read back before being labelled complete-verified.
+
+### Still open
+- Review the saved files by reading them back.
+- Use the system on several real tasks, then record any confusion, missed updates, or improvement opportunities.
+- The document prototype does not itself implement coloured UI backgrounds, automatic tracking, cross-device sync, or notifications.
