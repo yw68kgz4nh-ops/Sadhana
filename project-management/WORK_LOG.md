@@ -101,7 +101,7 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Added navigation to the status specification.
 
 ### Verification
-- The new specification and the updated status/work-log/index files must be read back before being labelled complete-verified.
+- 🔵 **COMPLETE — VERIFIED** — Read back the new specification and updated status, work log, and project-management index from GitHub. Checked for the colour definitions, pilot checklist, current task markers, and navigation links.
 
 ### Still open
 - Review the saved files by reading them back.
