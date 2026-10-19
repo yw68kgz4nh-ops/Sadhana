@@ -80,3 +80,15 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 2. Define task lifecycle transitions and the evidence required before a task may be marked complete.
 3. Prototype the floating island and preview interaction.
 4. Investigate feasible desktop/phone sync and notification architecture before promising delivery behaviour.
+
+
+## 2026-10-19 — Feedback reliability and assessed-learning workflow
+
+### Added
+- Drafted master prompt v0.4 to require clear acknowledgement, proportionate progress feedback, explicit completion/unfinished/blocked/failure status, and honest separation of completion from verification.
+- Created `schoolwork/Assessment_and_Improvement_Workflow.md` defining practical coursework, rubric-based marking, specific critique, revision, and review of our own teaching and AI workflow.
+- Linked the assessment workflow from the teaching guide and schoolwork README, and identified v0.4 in the prompt index.
+
+### Status
+- Write operations succeeded. Read-back verification remains pending.
+- The university comparison for short practical assignments and rubrics, and the first Week 1 assessment pilot, remain open.
