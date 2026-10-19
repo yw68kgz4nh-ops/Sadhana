@@ -166,3 +166,42 @@ Copy this template for each meaningful session or project milestone.
 **Workflow reflection**
 - Performing useful work is not enough if the person cannot tell whether the assistant is responding, working, blocked, or stopped.
 - Improvement to try: acknowledge the user's point first, then carry out tool work; report limitations and unfinished state explicitly. Prompt wording can guide behaviour while the assistant is active, but visible status and genuine background execution require product-level support.
+
+
+---
+
+## 2026-10-19 — UI/UX syllabus research resumed
+
+**Aim**
+- Respond honestly to the user's question about whether university course syllabuses had been gathered, then make concrete progress on that outstanding task.
+
+**What we discussed or decided**
+- The research had not been completed before the user returned. It was important to state that plainly rather than imply background work had continued.
+- Use real public university module descriptions as reference points, but label our beginner syllabus as a proposal rather than an official university syllabus.
+
+**What we actually did**
+- Reviewed official module information from the Universities of Leeds, Edinburgh, Bath, Kent, and Cardiff.
+- Drafted a four-week beginner programme covering UX/UI/HCI foundations, user research, task flows and wireframes, prototyping, usability testing, iteration, and a small portfolio case study.
+- Added deliverables, a manageable weekly rhythm, a feedback rubric, ethical boundaries, and direct source links.
+- Saved the draft in the repository and indexed it in the research README.
+
+**What was verified**
+- Read the syllabus draft back from GitHub after creation.
+- Read the research README, current status, work log, and diary before updating records. Further final read-back of the updated records is the remaining check.
+
+**Hurdles and friction**
+- The syllabus research had remained unfinished after the previous discussion. The user had to ask about it. No background continuation should be implied.
+- The course examples differ in level and scope; the beginner plan is a synthesis and simplification, not a direct reproduction of any one course.
+
+**What remains open**
+- Expand the plan into lesson-by-lesson teaching notes, accessible examples, and practical assignment briefs.
+- Confirm the learner's available time and preferred focus (websites/apps or broader services) before tailoring the workload.
+- Verify the final updated project records after this diary entry is saved.
+
+**Next steps**
+1. Read back the final repository updates.
+2. Develop Week 1 lesson material and its interface-critique exercise.
+3. Keep source facts, our synthesis, and untested assumptions distinct.
+
+**Workflow reflection**
+- Honest status is more useful than the appearance of uninterrupted work. The correct report is that the research had not been completed while the user was away, and that a sourced draft was made during this session.
