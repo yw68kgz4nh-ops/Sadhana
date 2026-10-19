@@ -205,3 +205,42 @@ Copy this template for each meaningful session or project milestone.
 
 **Workflow reflection**
 - Honest status is more useful than the appearance of uninterrupted work. The correct report is that the research had not been completed while the user was away, and that a sourced draft was made during this session.
+
+
+---
+
+## 2026-10-19 — Carnegie Mellon focus and teaching approach
+
+**Aim**
+- Establish a consistent academic reference, build a month of learning work, and decide how the lessons should be taught.
+
+**What we discussed or decided**
+- Use Carnegie Mellon University's Human-Computer Interaction Institute as the main reference for UI/UX combined with AI and human–AI interaction.
+- Avoid picking courses and services at random; prioritise strong evidence and fit for the learning goal.
+- Keep all schoolwork in one dedicated folder, even when it connects to broader Sadhana research.
+- Treat teaching as an interactive process, not simply reading material: diagnose current understanding, invite the learner's ideas, explain in manageable pieces, practise, test, give specific feedback, and adjust the method.
+
+**What we actually did**
+- Created schoolwork/README.md, a 20-session Month 1 course plan, and a guide to our teaching-and-learning approach.
+- Used CMU HCII's public course descriptions for Design of AI Products and Services and Human AI Interaction.
+- Used CMU Eberly Center guidance on prior knowledge, active learning, concept tests, formative assessment, inclusive low-stakes practice, and learning feedback, alongside research reviews.
+- Archived the previous multi-university syllabus in schoolwork/archive and removed it from the active research area. Unrelated Sadhana files were not deleted.
+- Updated the project status and research index.
+
+**What was verified**
+- The three main schoolwork files were created successfully.
+- The earlier syllabus was copied into the schoolwork archive before the old copy was deleted from the research folder.
+- Final read-back of all modified records is still to be completed.
+
+**Hurdles and friction**
+- The earlier draft had mixed multiple universities, which no longer matched the user's chosen direction. It has been superseded and archived, not treated as the active plan.
+- CMU's actual courses may include programming or assume prior knowledge, so the first month is a simplified, non-programming foundation and is not presented as an exact reproduction.
+
+**What remains open**
+- Read back all new and updated files to verify the final state.
+- Begin Session 1 in an interactive format and use the learner's answers to calibrate pace.
+- Keep a record of attempts, feedback, demonstrated understanding, and any lesson changes in schoolwork.
+
+**Workflow reflection**
+- “Best” should mean best supported for the specific goal, not a universal ranking or prestige alone. For this project, the direct relevance of CMU's published AI product design and human–AI interaction courses makes it a sensible primary reference.
+- The teaching approach must remain responsive: ask before assuming, use practice to reveal understanding, and change course when the evidence says the learner needs a different explanation.
