@@ -16,3 +16,5 @@ This folder is the single home for learning materials, lessons, assignments, fee
 - Distinguish the learner's own work from hints, examples, and AI-assisted revisions.
 - Adapt pace to evidence of understanding, not assumed ability. Mistakes are useful information, not a reason for embarrassment.
 - No lesson is marked complete just because it was presented; record what was attempted and what the learner demonstrated.
+
+- [Archived previous syllabus](archive/Previous_Multi_University_Syllabus_Superseded.md) — retained for project history only; not the active course direction.
