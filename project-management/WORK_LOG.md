@@ -57,3 +57,26 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - The plan is an original beginner-friendly synthesis, not an official Carnegie Mellon course or a claim that CMU is definitively the world's best university.
 - The prior draft was archived rather than erased from history; unrelated Sadhana work was left untouched.
 - The new files and updated records still require a final read-back check.
+
+
+## 2026-10-19 — Unified floating-island UI and visible task-state design
+
+### Discussed and decided
+- Establish a consistent three-state system across Sadhana features and platforms: blue = complete and verified; yellow = in progress; red = incomplete, blocked, failed, or interrupted.
+- Floating islands should feel physically elevated through carefully designed gradients, layered shadows, depth, and restrained halos—not look like flat cards with a glow.
+- Show a progress percentage centrally in the island, but calculate it from meaningful, observable work units rather than inventing precision. A status colour must also have a text label and icon for accessibility.
+- Design the same status semantics and visual language across desktop and phone, while adapting layout to each platform.
+- When a task is unfinished, report exactly what is complete, what remains, the next action, and whether continuation is genuinely automatic or requires user action.
+- On verified completion, show a temporary desktop preview and send a phone notification where the implemented platform and permissions support it. Dismissing the notification must not delete the saved work; missed notifications must not lose the completion record.
+- Treat these as shared design-system requirements rather than one-off styling choices.
+
+### Status and qualification
+- These are design decisions discussed in the conversation; they have **not yet been implemented or committed as a design-system specification**.
+- No floating-island UI, live percentage indicator, cross-device sync, or phone push notification has been built or verified in this session.
+- The illustrative 60% example shown in conversation was explicitly not a measured progress value.
+
+### Next steps
+1. Create a shared design-system specification covering status semantics, progress calculation, island depth/halo, accessible labels, responsive behaviour, and notification rules.
+2. Define task lifecycle transitions and the evidence required before a task may be marked complete.
+3. Prototype the floating island and preview interaction.
+4. Investigate feasible desktop/phone sync and notification architecture before promising delivery behaviour.
