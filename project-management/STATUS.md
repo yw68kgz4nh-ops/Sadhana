@@ -8,12 +8,12 @@
 
 - GitHub integration can create files and read them back.
 - Initial repository folders and indexes are in place.
-- Shared AI Working Philosophy v0.2 is preserved in `prompts/master/`; master prompt v0.3 has been created with interruption-visibility guidance and read-back verified.
+- Shared AI Working Philosophy v0.2 is preserved in prompts/master; master prompt v0.3 has been created with interruption-visibility guidance and read-back verified.
 - Reconstructed working drafts of Prompts 13 and 14 are saved with explicit provenance notes.
 - Initial use-case records SA-UX-001 through SA-UX-005 are saved and indexed.
-- Exploratory research record SA-RESEARCH-001 has been created.
-- Prompt 15 draft has been created to address interruption, resumption, and silent task stoppage; the prompt and updated indexes have been read back and verified.
-- A research-backed [UI/UX first-month syllabus draft](../research/UI_UX_First_Month_Syllabus_Research_Draft.md) has been created, indexed, and read back. It draws on public university module outlines and is explicitly labelled as a proposal, not an official syllabus.
+- Prompt 15 draft addresses interruption, resumption, and silent task stoppage; the prompt and updated indexes have been read back and verified.
+- Dedicated schoolwork folder created with a Carnegie Mellon HCII-informed Month 1 course plan, a teaching-method guide, and an archive of the superseded multi-university draft.
+- New schoolwork files were read back from GitHub and checked for expected content.
 
 ## In progress
 
@@ -21,7 +21,11 @@
 - Reconciling conversation-only prompt drafts with repository versions.
 - Adding more detailed evidence and test outcomes to use-case records.
 - Reviewing whether public visibility is appropriate for the complete project.
-- Continue checking university course references and develop the syllabus into beginner-friendly lessons, exercises, and feedback criteria.
+- Delivering the Month 1 lessons interactively and recording demonstrated progress, feedback, and next steps in schoolwork.
+
+## Current learning direction
+
+Use Carnegie Mellon University's Human-Computer Interaction Institute as the primary academic reference for AI product design and human–AI interaction. Treat the schoolwork folder as the single home for lesson materials, assignments, feedback, and learning records. The course is our original beginner plan, not an official CMU syllabus or enrolment.
 
 ## Integrity rules
 
