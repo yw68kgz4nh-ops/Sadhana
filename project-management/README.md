@@ -4,9 +4,10 @@ This folder holds the project's scope, working agreements, current status, work 
 
 ## Core records
 
-- [Current status](STATUS.md)
-- [Work log](WORK_LOG.md) — concise record of meaningful project changes
-- [Workflow diary](WORKFLOW_DIARY.md) — session and milestone recaps, including aims, decisions, completed work, verification, hurdles, and next steps
+- [Current status](STATUS.md) — visible state of current work and outstanding tasks.
+- [Task Status and Colour System](Task_Status_and_Colour_System.md) — shared blue/yellow/red meanings and the first documentation pilot.
+- [Work log](WORK_LOG.md) — concise, dated record of meaningful project changes.
+- [Workflow diary](WORKFLOW_DIARY.md) — session and milestone recaps, including aims, decisions, completed work, verification, hurdles, and next steps.
 
 ## Working agreement
 
