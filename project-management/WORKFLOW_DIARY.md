@@ -230,7 +230,7 @@ Copy this template for each meaningful session or project milestone.
 **What was verified**
 - The three main schoolwork files were created successfully.
 - The earlier syllabus was copied into the schoolwork archive before the old copy was deleted from the research folder.
-- Final read-back of all modified records is still to be completed.
+- Final read-back completed: the three main schoolwork files, archive, research index, status, work log, and diary were fetched again from GitHub. The superseded active syllabus path returned not found, as intended.
 
 **Hurdles and friction**
 - The earlier draft had mixed multiple universities, which no longer matched the user's chosen direction. It has been superseded and archived, not treated as the active plan.
