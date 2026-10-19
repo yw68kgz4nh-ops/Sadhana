@@ -42,3 +42,18 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 ### Important qualification
 - This is a proposed beginner programme informed by university module outlines, not an official university syllabus or accredited course.
 - The earlier planned research was not completed before the user returned and asked about it. The syllabus draft was produced during this live session; no claim is made that it was completed while the user was away.
+
+
+## 2026-10-19 — Carnegie Mellon focus and dedicated schoolwork folder
+
+### Completed and verified
+- Created the dedicated schoolwork folder with a README, a 20-session Month 1 course plan, and a teaching-and-learning guide.
+- Based the plan on Carnegie Mellon HCII's public descriptions of Design of AI Products and Services and Human AI Interaction.
+- Researched Carnegie Mellon's Eberly Center guidance on prior knowledge, active learning, concept checks, low-stakes assessment, feedback, and responsive teaching, plus systematic reviews of retrieval practice and feedback.
+- Archived the earlier multi-university syllabus under schoolwork/archive and removed it from the active research folder/index, so the Carnegie Mellon-focused plan is the active direction.
+- Updated the project status and research index.
+
+### Qualification
+- The plan is an original beginner-friendly synthesis, not an official Carnegie Mellon course or a claim that CMU is definitively the world's best university.
+- The prior draft was archived rather than erased from history; unrelated Sadhana work was left untouched.
+- The new files and updated records still require a final read-back check.
