@@ -374,3 +374,41 @@ Copy this template for each meaningful session or project milestone.
 **Workflow reflection**
 - The journal must record the process, not only the final result: where work paused, what problem we examined, the solution chosen, the steps taken, what was verified, what failed, and what remains.
 - Improvement: journal every meaningful design change or decision as part of the same workflow, then read back the saved record. Do not claim a journal update is complete before verifying it.
+
+
+---
+
+## 2026-10-20 — Master prompt updated to require journalling every meaningful change
+
+**Aim**
+- Make sure meaningful design decisions, modifications, fixes, and solutions are captured in the journal as part of the work, without the user needing to remind the assistant.
+
+**What we discussed and decided**
+- The diary should record the process that led to a solution: the problem or stopping point, discussion and reasoning, decision, actions, outcome, verification, friction, and next steps.
+- Earlier entries already record several major design sessions, including floating-island UI, task-state feedback, and the colour-system prototype. However, the diary cannot yet be assumed to contain every meaningful edit or decision in full. Missed work should be audited and added retrospectively with an honest label, not reconstructed as if written at the time.
+- Keep the full process in the Workflow Diary and use the Work Log for concise repository milestones.
+
+**What we actually did**
+- Created [Shared AI Working Philosophy v0.5](../prompts/master/Shared_AI_Working_Philosophy_v0.5.md), adding a mandatory rule to journal meaningful design changes, modifications, fixes, solutions, and working-method decisions.
+- Added requirements for retrospective entries when earlier work was missed, explicitly distinguishing reconstructed records from contemporaneous notes.
+- Updated the [Prompt Library index](../prompts/README.md) to identify v0.5 as the current master prompt and preserve v0.4 as history.
+
+**What was verified**
+- GitHub confirmed successful writes for the new v0.5 file and updated prompt index. Read-back verification of those files and this diary entry is the remaining check before marking this entry verified.
+
+**Hurdles and friction**
+- The user had to point out that journal updates should happen every time meaningful design work occurs. This latest colour-and-shape work was documented in the diary only after the user raised the omission.
+- Earlier diary entries do cover a number of previous design discussions, but coverage is uneven; a full retrospective audit has not yet been completed.
+
+**What remains open**
+- Read back v0.5, the prompt index, and this diary entry after saving.
+- Add a corresponding concise Work Log entry.
+- Audit earlier meaningful design changes in manageable groups, adding clearly labelled retrospective notes for any gaps. Do not claim every historical edit has been recovered until that audit is complete.
+
+**Next steps**
+1. Verify the saved prompt and diary/index changes by reading them back.
+2. Update and verify the Work Log.
+3. Review earlier diary and work-log coverage and record remaining gaps.
+
+**Workflow reflection**
+- A rule in a prompt is useful only if we apply it consistently. The record should be updated as part of the change, not left as optional follow-up administration. The journal must distinguish what was discussed, what was actually changed, and what was verified.
