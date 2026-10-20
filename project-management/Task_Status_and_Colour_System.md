@@ -20,6 +20,20 @@ Always pair colour with a plain-language label and an icon/emoji. Colour alone i
 
 The word label is authoritative if colour is missing or displayed differently. Do not use blue to mean merely drafted, saved, or attempted when verification is still required.
 
+## 2A. Mini UI visual and the meaning of shapes
+
+The three status markers are shown together below as a small interface mock-up. The visual is a design aid for reviewing papers and project documents; it is not a live or automatic status tracker.
+
+![Sadhana task status mini UI: blue circle, amber triangle, red square](assets/task-status-mini-ui.svg)
+
+| Marker | Operational meaning | Proposed design rationale (a convention to test, not a universal law) |
+|---|---|---|
+| 🔵 Blue circle | **COMPLETE — VERIFIED** | A closed, continuous loop can suggest wholeness, continuity, and a finished whole. It is a useful metaphor for completion, but does not prove completion: verification still has to happen. |
+| 🟡 Amber triangle | **IN PROGRESS — NOT YET VERIFIED** | The upward apex can suggest direction, effort, building, or movement towards a goal. The triangle signals work that is still developing or needs a check. |
+| 🔴 Red square | **NOT DONE / BLOCKED / FAILED / INTERRUPTED** | The square's firm edges and corners can be used as a visual metaphor for a fixed boundary, obstacle, stop, or unresolved constraint. This is a chosen design convention—not a claim that squares are inherently negative. The text label must state the actual problem. |
+
+**Design principle:** colour, shape, and words work together. The shape metaphors are hypotheses to evaluate with users, not universal psychological facts. The status label and evidence remain authoritative, especially for accessibility and cross-cultural use.
+
 ## 3. Task states and transition evidence
 
 For detailed task tracking, use these text states alongside the colour:
