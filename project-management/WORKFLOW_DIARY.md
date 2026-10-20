@@ -412,3 +412,35 @@ Copy this template for each meaningful session or project milestone.
 
 **Workflow reflection**
 - A rule in a prompt is useful only if we apply it consistently. The record should be updated as part of the change, not left as optional follow-up administration. The journal must distinguish what was discussed, what was actually changed, and what was verified.
+
+
+---
+
+## 2026-10-20 — Embedded task-status mini UI and explored shape symbolism
+
+**Starting point**
+- The status specification was mostly text, making it harder to scan and apply during a paper critique. The user proposed a compact visual with the three states shown side by side.
+- The user also suggested giving each shape a meaningful rationale: a circle as a complete whole, a triangle as upward development, and a square as a possible sign of a problem.
+
+**Discussion and design reasoning**
+- A compact UI-style visual can make the system easier to understand at a glance, while explicit labels ensure the design does not rely on colour or symbolism alone.
+- Circle-as-wholeness and triangle-as-direction/development are plausible metaphors, but not universal meanings. A square should not be described as inherently negative; for this system, its firm edges and corners can serve as a deliberately chosen metaphor for a boundary, obstacle, or unresolved constraint.
+- These are design hypotheses to test, not established psychological laws. The actual status text and verification evidence remain authoritative.
+
+**Actions completed**
+- Created the mini UI asset at [task-status-mini-ui.svg](assets/task-status-mini-ui.svg), with three status cards:
+  - Blue circle — complete and verified.
+  - Amber triangle — in progress or awaiting verification.
+  - Red square — not done, blocked, failed, or interrupted.
+- Embedded the visual into [Task Status and Colour System](Task_Status_and_Colour_System.md) and added a table explaining the operational status and provisional rationale for each shape.
+
+**Verification**
+- GitHub confirmed the status specification update was saved. Read-back checks for the specification, visual asset, and this diary entry are still required before marking the full change verified.
+
+**Still open**
+- Read back the updated specification and visual asset and confirm that the relative image path works in the repository.
+- Add the corresponding concise Work Log entry and read it back.
+- Test the mini UI while critiquing a real paper or document; revise if users misunderstand any shape or label.
+
+**Workflow reflection**
+- A document used for critique should show the state of each part visibly: blue for complete and checked, amber for work in progress or awaiting a check, and red for unresolved work or an obvious fault. The visual should expose the next action rather than merely decorate the page.
