@@ -107,3 +107,17 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Review the saved files by reading them back.
 - Use the system on several real tasks, then record any confusion, missed updates, or improvement opportunities.
 - The document prototype does not itself implement coloured UI backgrounds, automatic tracking, cross-device sync, or notifications.
+
+
+## 2026-10-20 — Master prompt v0.5: journal meaningful changes
+
+### Added
+- Created [Shared AI Working Philosophy v0.5](../prompts/master/Shared_AI_Working_Philosophy_v0.5.md) with a mandatory rule to journal meaningful design decisions, modifications, fixes, solutions, actions, verification, failures, and open work.
+- Updated the [prompt index](../prompts/README.md) to identify v0.5 as current while preserving prior versions.
+- Added a diary entry explaining the decision and steps, and noted that a retrospective audit of older work is still needed.
+
+### Verification status
+- The write operations succeeded. Read-back verification of the new prompt, prompt index, diary entry, and this work-log entry is the next check; do not treat these records as fully verified until that check passes.
+
+### Open work
+- Audit earlier meaningful design changes and add clearly labelled retrospective diary notes where the record is missing or incomplete.
