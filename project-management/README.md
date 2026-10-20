@@ -1,11 +1,12 @@
 # Project Management
 
-This folder holds the project's scope, working agreements, current status, work log, workflow diary, and coordination notes.
+This folder holds the project's scope, working agreements, current status, work log, workflow diary, design principles, and coordination notes.
 
 ## Core records
 
 - [Current status](STATUS.md) — visible state of current work and outstanding tasks.
-- [Task Status and Colour System](Task_Status_and_Colour_System.md) — shared blue/yellow/red meanings and the first documentation pilot.
+- [Design Principles](Design_Principles.md) — philosophical continuity across ideas, documents, prototypes, and the eventual interface.
+- [Task Status and Colour System](Task_Status_and_Colour_System.md) — shared blue/yellow/red meanings, research rationale, and the first documentation pilot.
 - [Work log](WORK_LOG.md) — concise, dated record of meaningful project changes.
 - [Workflow diary](WORKFLOW_DIARY.md) — session and milestone recaps, including aims, decisions, completed work, verification, hurdles, and next steps.
 
