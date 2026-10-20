@@ -334,3 +334,43 @@ Copy this template for each meaningful session or project milestone.
 
 **Workflow reflection**
 - We need to tune both the learner's understanding and the system that teaches, marks, communicates, and improves. The latter should be assessed with the same honesty: a proposed improvement is not proven until it is tested.
+
+
+---
+
+## 2026-10-20 — Design philosophy and status markers
+
+**Aim**
+- Resolve the problem of unclear paper-section/task completion by making unfinished and verified work easier to distinguish, and record the full reasoning and actions in the journal.
+
+**What we discussed and decided**
+- Use the GitHub documents as a low-cost prototype before implementing this design in the Sadhana interface.
+- Pair each colour with a distinct shape/icon and explicit wording: blue circle = COMPLETE — VERIFIED; amber triangle = IN PROGRESS or AWAITING VERIFICATION; red square = NOT DONE, BLOCKED, FAILED, or INTERRUPTED. State the exact condition and next action. Colour alone is not authoritative.
+- Treat the palette as a convention to test, not a universal psychological rule. Research on colour associations is context- and culture-dependent.
+- Add a broader design principle: preserve philosophical continuity as ideas move from foundational philosophy to design principles, documents, prototypes, implementation, and testing.
+
+**What we did**
+- Created `Design_Principles.md`.
+- Updated `Task_Status_and_Colour_System.md` with the research rationale and links to three relevant publications.
+- Updated `project-management/README.md` to link both documents.
+
+**What was verified**
+- Read back the three updated/created files from GitHub and checked the links and research references.
+- The diary entry itself is being added now; it must be read back after saving before it can be marked verified.
+
+**Hurdles and friction**
+- The first attempt to create the design-principles file failed; a later attempt succeeded. The reason for the initial failure is unknown.
+- The user pointed out that meaningful design decisions and positive edits must be journalled as they happen. The latest design work had not yet been recorded in the diary.
+
+**What remains open**
+- Apply the status markers to real Sadhana tasks and observe whether they clarify what is done, unverified, or blocked.
+- Review the palette and wording based on actual usability and accessibility feedback. No software interface has been implemented by these document edits.
+
+**Next steps**
+1. Save and read back this diary entry.
+2. Apply the system to current tasks and record friction or ambiguity.
+3. Review the pilot before calling the design standard established.
+
+**Workflow reflection**
+- The journal must record the process, not only the final result: where work paused, what problem we examined, the solution chosen, the steps taken, what was verified, what failed, and what remains.
+- Improvement: journal every meaningful design change or decision as part of the same workflow, then read back the saved record. Do not claim a journal update is complete before verifying it.
