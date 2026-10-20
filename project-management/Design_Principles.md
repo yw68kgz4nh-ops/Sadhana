@@ -45,3 +45,25 @@ Record observations rather than assuming the principle works merely because the 
 ## Scope and limits
 
 Philosophical coherence is a design aim, not a substitute for usability testing, accessibility checks, technical verification, or user choice. Consistency should not be preserved when evidence shows that a pattern is confusing, unsafe, or inaccessible. The purpose is a coherent and useful experience—not uniformity for its own sake.
+
+
+## Philosophical rationale for the three status shapes
+
+The shapes give the status system a memorable visual metaphor. These meanings are Sadhana's chosen design interpretation; they are not universal truths about geometry.
+
+- **Circle — completion as a coherent whole.** A closed, continuous loop can suggest wholeness and continuity: the work is treated as a complete unit. The circle does not prove correctness; the status is blue only after the outcome has been checked against its requirements.
+- **Triangle — development towards an aim.** The upward-pointing apex can suggest direction, building, and movement towards a goal. Amber means in progress or awaiting verification, not automatically that progress is good or nearly finished.
+- **Square — boundary, stop, or obstacle.** Its firm edges and corners can serve as a metaphor for a constraint or unresolved issue that needs attention. A square is not inherently negative; the red label identifies the actual condition, such as blocked, failed, or not done.
+
+## Psychological rationale for colour
+
+Research finds systematic associations between colours and emotion, but colour associations are not fixed instructions and do not guarantee that a viewer will feel a particular emotion. A 2025 systematic review by Jonauskaite and Mohr synthesised 132 studies involving 42,266 participants across 64 countries. It found recurring associations—for example, blue with lower-arousal positive emotions and red with high-arousal emotions that can be positive or negative. The review also stresses that association does not necessarily mean a colour causes a corresponding feeling in a real situation.
+
+Schloss's 2024 paper, *Color Semantics in Human Cognition*, explains that colour meaning depends on context and on the concepts a viewer brings to an image; associations can sometimes conflict. For Sadhana, this means we should use colour as a quick visual cue, not as the sole carrier of meaning. The explicit status label and distinct shape must reinforce it, and users must be able to understand the status without relying on colour alone.
+
+Our blue, amber, and red mapping is a practical convention inspired by familiar status and warning systems, not a claim that psychology proves these exact colours are best. We should test the mapping with real Sadhana tasks, including whether people interpret it correctly, whether it remains legible for people with colour-vision differences, and whether the symbols and words reduce ambiguity.
+
+### Research references
+
+- Jonauskaite, D., & Mohr, C. (2025). “Do we feel colours? A systematic review of 128 years of psychological research linking colours and emotions.” *Psychonomic Bulletin & Review, 32*, 1457–1486. https://doi.org/10.3758/s13423-024-02615-z
+- Schloss, K. B. (2024). “Color Semantics in Human Cognition.” *Current Directions in Psychological Science, 33*(1), 58–67. https://doi.org/10.1177/09637214231208189
