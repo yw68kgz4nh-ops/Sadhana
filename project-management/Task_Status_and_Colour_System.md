@@ -65,13 +65,24 @@ For a short list, put the marker beside each task. For a larger list, use a tabl
 
 A percentage may be shown only when progress is calculated from meaningful, observable units defined in advance. State the denominator or method where it is not obvious. Do not invent a percentage to make an island, task, or document look more complete. A task can be 100% complete only when its required work is complete; if verification is required, do not call it verified until that check passes.
 
-## 7. Accessibility and consistency
+## 7. Accessibility, research basis, and consistency
 
 - Always use a text label as well as the icon/colour.
 - Use consistent definitions across desktop, phone, tablet, GitHub, coursework, and future product UI.
 - Keep wording plain and concise; explain technical blockers.
 - Do not equate visual polish with successful work.
 - Preserve history when a status changes so that meaningful failures and improvements can be reviewed.
+
+### Why use colour at all?
+
+Colour can support quick recognition, but its meaning depends on context, culture, and the task. Research does not justify treating any colour-emotion association as universal. In Sadhana, blue for verified completion, amber for work in progress or awaiting verification, and red for unfinished or blocked work are **design conventions we are choosing to test**, not psychological laws. Pairing each colour with a distinct shape/icon and an explicit text label reduces reliance on colour perception and makes the state clearer when colours render differently.
+
+Relevant research:
+- Jonauskaite, D. & Mohr, C. (2025). “Do we feel colours? A systematic review of 128 years of psychological research linking colours and emotions.” *Psychonomic Bulletin & Review*. [Open-access article at PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12325498/).
+- “A systematic investigation of conceptual color associations.” [PubMed record](https://pubmed.ncbi.nlm.nih.gov/31763867/).
+- Schloss, K. B. (2024). “Color Semantics in Human Cognition.” *Current Directions in Psychological Science*. [https://doi.org/10.1177/09637214231208189](https://doi.org/10.1177/09637214231208189).
+
+These sources inform the rationale, but do not by themselves prove that this particular status palette is best. The palette must be evaluated through Sadhana's own usability and accessibility testing.
 
 ## 8. How we will test whether this works
 
