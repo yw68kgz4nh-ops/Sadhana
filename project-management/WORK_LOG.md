@@ -121,3 +121,11 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 
 ### Open work
 - Audit earlier meaningful design changes and add clearly labelled retrospective diary notes where the record is missing or incomplete.
+
+
+## 2026-10-20 — Task-status mini UI
+
+- Created `project-management/assets/task-status-mini-ui.svg` and embedded it in `Task_Status_and_Colour_System.md`.
+- Added a provisional rationale for the circle, triangle, and square. These are design metaphors to test, not universal psychological rules; explicit labels and verification remain authoritative.
+- Recorded the work in `WORKFLOW_DIARY.md`.
+- Open: read back all changed files and confirm the SVG path renders correctly, then test the visual during a real paper critique.
