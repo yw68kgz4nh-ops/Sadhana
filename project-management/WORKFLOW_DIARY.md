@@ -485,3 +485,37 @@ The user described a thread-discovery idea: **press and hold a conversation/thre
 ### Reflection
 A use case explains a problem and candidate solution; the diary explains how the team arrived at it and where the work paused. Both are necessary. The journal is part of the work, not optional administration.
 
+
+## 2026-10-26 — File-by-file repository inventory and audit triage
+
+**Aim**
+- Give the user a reliable count of unique files and distinguish recent verified changes from work that is merely present or still needs review.
+
+**What we actually did**
+- Retrieved the recursive tree for the repository's default branch and counted 56 files in 16 directories.
+- Created a file-by-file inventory at [FILE_BY_FILE_AUDIT_2026-10-26.md](FILE_BY_FILE_AUDIT_2026-10-26.md), with an explicit status for every file and a priority list of known issues.
+- Read back the audit file and inspected the root README, project status, schoolwork indexes, prompt indexes, use-case index, work log, and workflow diary.
+- Added the audit to the project-management index and work log.
+
+**What was verified**
+- GitHub's recursive tree returned 56 file entries and 16 directory entries.
+- The audit file was successfully created and read back.
+- The prompt-library index confirms that the complete original 13-prompt source is still unrecovered; reconstructed drafts are labelled as such.
+- The Week 1 index and status documents expose known consistency work; two Lesson 2 documents overlap but contain distinct useful content.
+
+**Hurdles and friction**
+- Commit count is not a unique-file count because the same files have been committed more than once.
+- The inventory can establish presence, but not every file's correctness or every relative link's validity without a deeper review.
+- The repository is public, so private material must remain out.
+
+**Stopping point**
+- The inventory and triage report are saved and indexed. The full content/link audit remains open; this entry does not claim all 56 files were reviewed line-by-line.
+
+**Next actions**
+1. Fix inconsistent status-key formatting in `STATUS.md` and `schoolwork/Week_1/README.md`.
+2. Merge the two Lesson 2 versions without losing unique content, then check links before archiving or redirecting the old path.
+3. Audit all relative links and indexes against the repository tree.
+4. Compare prompt versions 0.2–0.5 and continue recovering ChatGPT/Claude improvement ideas from available records.
+
+**Reflection**
+- The file count and the depth of review must be reported separately. An inventory is a useful milestone, but it is not proof that every file is correct.
