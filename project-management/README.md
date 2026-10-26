@@ -4,6 +4,8 @@ This folder holds the project's scope, working agreements, current status, work 
 
 ## Core records
 
+- [File-by-file repository audit — 2026-10-26](FILE_BY_FILE_AUDIT_2026-10-26.md) — current 56-file inventory, verified updates, known issues, and remaining audit work.
+
 - [Current status](STATUS.md) — visible state of current work and outstanding tasks.
 - [Historical Reconstruction and Repository Reconciliation](HISTORICAL_RECONSTRUCTION_AND_RECONCILIATION.md) — inventory of historical topics, work completed, and the remaining audit queue.
 - [Design Principles](Design_Principles.md) — philosophical continuity across ideas, documents, prototypes, and the eventual interface.
