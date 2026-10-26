@@ -92,3 +92,38 @@ The following topics are known from project conversations and should be matched 
 ## Completion standard
 
 A topic is not considered reconciled merely because a summary exists. The work is complete only when its best available source is identified, its authoritative file location is chosen, relevant indexes link to it, duplicates and version conflicts are resolved or explicitly documented, and all changes are verified. Where the original source cannot be found, record the limitation and preserve the reconstructed draft as such.
+
+## Verification update — 2026-10-26
+
+### Read-back checks completed in this pass
+
+The following files were fetched from the repository after creation or update, confirming that their contents are present on the default branch:
+
+- `schoolwork/Week_1/Lesson_04_When_AI_Is_Appropriate.md`
+- `schoolwork/Week_1/Lesson_05_Review_and_Design_Brief.md`
+- `schoolwork/Week_1/Week_1_Assignment_Brief_and_Rubric.md`
+- `schoolwork/Week_1/Lesson_Worksheet_Template.md`
+- `schoolwork/Week_1/Week_1_Revision_Cards.md`
+- `evidence/EVIDENCE_REGISTER.md`
+- `decisions/DEC-001_Repository_as_Authoritative_Project_Record.md`
+- `experiments/EXP-001_Thread_Preview_Usability_Test.md`
+- `schoolwork/Week_1/Lesson_02_Problem_Framing.md`
+- `schoolwork/Week_1/Lesson_03_AI_Capabilities_and_Limits.md`
+
+This verifies repository presence and readable content; it does not mean the lessons have been taught, the rubric has been piloted, or the experiment has been run.
+
+### Repository map and consistency findings
+
+- The repository tree contains both `schoolwork/Week_1/` and `schoolwork/week-01/`. The latter contains Lesson 1 and a second Lesson 2 file with a different filename. These must be compared before consolidation; no files should be deleted simply to make the structure look tidy.
+- `prompts/README.md` currently identifies v0.5 as the current shared working philosophy and preserves v0.2–v0.4. This resolves the older index wording that described v0.2 as current, but the versions still need a content-level comparison before the prompt family can be considered reconciled.
+- `prompts/library/README.md` correctly labels Prompts 13–15 as drafts and says the full original 13-prompt source has not been recovered.
+- The root README explicitly warns that the repository is public and sensitive material must not be committed. Repository visibility remains public until the owner changes it in GitHub settings.
+- Some paths are indexed across folders by relative links; a full automated link audit has not yet been completed.
+
+### Next actions
+
+1. Compare the two Lesson 2 files and inspect Lesson 1, both Week 1 indexes, and the schoolwork overview; choose a canonical structure only after link and content checks.
+2. Compare master prompt versions 0.2–0.5 for substantive changes and consistency with the user's core principles: challenge assumptions respectfully, collaborate across ChatGPT and Claude, reduce user effort, keep progress visible, and distinguish planned work from verified completion.
+3. Audit the workflow diary and work log for additional uncaptured ideas, linking existing records before creating new ones.
+4. Run a repository-wide relative-link and index audit, then update the status board with exact verified outcomes.
+
