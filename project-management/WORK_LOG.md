@@ -129,3 +129,19 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Added a provisional rationale for the circle, triangle, and square. These are design metaphors to test, not universal psychological rules; explicit labels and verification remain authoritative.
 - Recorded the work in `WORKFLOW_DIARY.md`.
 - Open: read back all changed files and confirm the SVG path renders correctly, then test the visual during a real paper critique.
+
+
+## 2026-10-26 — Historical repository population and status-system correction
+
+### Added or updated
+- Added four reconstructed Week 1 learning assets: Lesson 4 on deciding whether AI is appropriate, Lesson 5 review/design brief, an assignment brief and rubric, and a reusable lesson worksheet template.
+- Added an initial evidence register, DEC-001 on the authoritative project record, and EXP-001 usability-test plan for active-thread indicators and previews. EXP-001 is a plan only; it has not been run.
+- Updated the project status snapshot and indexes for decisions, evidence, and experiments.
+- Re-read the repository tree and several key indexes. Confirmed that the repository has both `schoolwork/Week_1/` and `schoolwork/week-01/`; consolidation remains open because files must not be lost.
+- Corrected the heading and core definition paragraph in `project-management/Task_Status_and_Colour_System.md` to restore the original three shape-and-colour meanings: blue circle = complete; amber triangle = ongoing; red square = needs fixing. Green “checked and added in” is an additional review distinction, not a replacement for the three core meanings.
+
+### Limitations and open work
+- Much historical context is available only as summaries, not complete original transcripts or original prompt text. Reconstructed records remain labelled as such.
+- Newly created learning files and all indexes still need a systematic read-back/link audit. The whole repository has not yet been verified for empty folders, broken links, duplicate content, or inconsistent status symbols.
+- The repository is public; review privacy and visibility before adding any further personal or confidential material.
+- Do not report background work as continuing while the session is idle. Work is recorded here only after the corresponding repository operations.
