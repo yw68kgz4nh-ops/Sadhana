@@ -164,3 +164,20 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - The repository-wide relative-link audit and master-prompt version comparison remain outstanding.
 - The repository remains public until the owner changes visibility in GitHub settings.
 
+
+## 2026-10-26 — File-by-file repository inventory and triage
+
+### Completed and verified
+- Retrieved the recursive GitHub tree for the default branch and counted **56 files across 16 directories**.
+- Created [File-by-File Repository Audit](FILE_BY_FILE_AUDIT_2026-10-26.md), listing every current file with a status and known follow-up where available.
+- Read back the new audit and reviewed key indexes, status, diary, work log, and prompt-library migration notes.
+- Linked the audit from the project-management index.
+
+### Important limitations and findings
+- The 56-file count is the current repository inventory, not a count of files changed today; multiple commits modify the same paths.
+- This is an inventory and triage pass, not yet a full line-by-line content and link audit of all 56 files.
+- Known next fixes include inconsistent status-key representations, two overlapping Lesson 2 files, the legacy Week 1 folder name, incomplete prompt recovery, and deeper evidence/acceptance-criteria review for earlier use cases.
+- The repository remains public; no sensitive material should be added.
+
+### Next step
+- Correct status-key inconsistencies and consolidate Lesson 2 safely, then continue the repository-wide relative-link and prompt-version audit.
