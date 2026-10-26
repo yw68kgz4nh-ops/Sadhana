@@ -10,7 +10,7 @@ Every meaningful task or deliverable should have a visible state. A reader shoul
 
 Use the same meanings in project documents, task lists, coursework, prototypes, and eventually the Sadhana interface. The document workflow is our first low-cost prototype. Record problems with the system and improve it based on use.
 
-## 2. The three shared status colours
+## 2. The core shape-and-colour status markers
 
 Always pair colour with a plain-language label and an icon/emoji. Colour alone is not accessible and may not render consistently in every interface.
 
