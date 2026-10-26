@@ -444,3 +444,44 @@ Copy this template for each meaningful session or project milestone.
 
 **Workflow reflection**
 - A document used for critique should show the state of each part visibly: blue for complete and checked, amber for work in progress or awaiting a check, and red for unresolved work or an obvious fault. The visual should expose the next action rather than merely decorate the page.
+
+---
+
+## 2026-10-26 — Retrospective session: repository population, thread preview idea, and continuity
+
+**Entry type:** Retrospective reconstruction of the current conversation; not a claim that every earlier conversation has been recovered.
+
+### Starting point / stopping point
+The user asked that work continue across the available project history before lessons begin. The immediate work was to populate Sadhana's GitHub repository with previously discussed ChatGPT and Claude improvement ideas, keep the journal current, and ensure each idea is linked to the correct place in the repository. The user specifically clarified that the diary must preserve the stopping point and the solution proposed, not merely create a use-case document.
+
+### User proposal captured
+The user described a thread-discovery idea: **press and hold a conversation/thread to preview what is inside it without opening or switching into that thread**. The intent is to make it easier to identify the right conversation, reduce accidental context switches, and recover work without losing the current thread. This is a user-proposed design direction, not yet a tested solution.
+
+### How it should be recorded
+- Keep the detailed UX problem, intended behaviour, acceptance criteria, failure cases, and test plan in the existing [SA-UX-006 use case](../research/use-cases/SA-UX-006_Thread_Context_Preview_and_Active_Thread_Indicator.md).
+- Keep this diary as the process record: where the work stopped, the idea proposed, the rationale, what was created, what was checked, and what remains unresolved.
+- Keep the [evidence register](../evidence/EVIDENCE_REGISTER.md) as the map from reported observations to records; do not treat the idea as validated until tested.
+- Add a concise dated milestone to the Work Log after meaningful repository work.
+- During the historical audit, add clearly labelled retrospective entries for important earlier ideas that were omitted. Do not fabricate exact dates or pretend reconstructed entries were written contemporaneously.
+
+### Repository work verified in this session
+- Re-fetched the two Lesson 2 files in `schoolwork/Week_1/` and `schoolwork/week-01/`. They are distinct files with overlapping subject matter and different wording; they should be compared and reconciled before either is removed or renamed.
+- Re-fetched Week 1 learning assets, the evidence register, DEC-001, and EXP-001; the files were present and readable.
+- Updated this historical reconstruction tracker with the verified file list, duplicate-folder finding, prompt-index finding, and next audit steps; then fetched the tracker again to confirm the update was saved.
+
+### Decisions and limits
+- Do not begin teaching lessons until the user agrees the repository is sufficiently organised.
+- Do not merge or delete the two Lesson 2 files until their full content and inbound links have been compared.
+- The repository is currently public. The user intends to change its visibility later; until the owner confirms that change, treat all committed material as publicly visible and do not add private or sensitive information.
+- Work does not continue in the background when the session is inactive. Progress must be made and recorded during active tool work, and must not be implied otherwise.
+
+### Next actions
+1. Compare both Lesson 2 documents in full and inspect all Week 1 index links before choosing a canonical location.
+2. Review the master prompt versions 0.2–0.5 against the core principles and record substantive differences without erasing history.
+3. Continue extracting ChatGPT/Claude improvement ideas from available workflow diary and work-log records, linking to existing use cases before creating new ones.
+4. Audit relative links and indexes; read back every file changed.
+5. Update status and work log only for actions actually completed and verified.
+
+### Reflection
+A use case explains a problem and candidate solution; the diary explains how the team arrived at it and where the work paused. Both are necessary. The journal is part of the work, not optional administration.
+
