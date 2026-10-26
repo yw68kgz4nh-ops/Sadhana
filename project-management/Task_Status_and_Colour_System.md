@@ -12,13 +12,13 @@ Use the same meanings in project documents, task lists, coursework, prototypes, 
 
 ## 2. The core shape-and-colour status markers
 
-Always pair colour with a plain-language label and an icon/emoji. Colour alone is not accessible and may not render consistently in every interface.
+Always use the agreed shape, colour, and plain-language label together. Colour alone is not accessible and may not render consistently in every interface.
 
-- 🔵 **COMPLETE — VERIFIED:** The requested action is finished, the result has been saved or persisted where applicable, and the relevant result has been checked. State what was checked.
-- 🟡 **IN PROGRESS — NOT YET VERIFIED:** Work is actively being carried out, or an action has been completed but still needs a check. Add a short qualifier such as **ACTIVE** or **AWAITING VERIFICATION**; do not imply that waiting work is active.
-- 🔴 **NOT DONE / BLOCKED / FAILED / INTERRUPTED:** The item is not complete. State the specific condition, why it remains unfinished when known, and the next action or dependency. **NOT STARTED** is a valid explicit qualifier.
+- 🔵 **BLUE CIRCLE — COMPLETE:** The task or deliverable is finished. State what was completed; do not imply it was independently checked unless that check happened.
+- 🟠 **AMBER TRIANGLE — ONGOING:** Work is currently in progress or awaiting a named verification step. State what has happened and what remains.
+- 🟥 **RED SQUARE — NEEDS FIXING:** Something is wrong, has failed, is blocked, or needs correction. Name the issue and next action.
 
-The word label is authoritative if colour is missing or displayed differently. Do not use blue to mean merely drafted, saved, or attempted when verification is still required.
+The shape is part of the status, not decoration. The shape metaphors are project conventions to test with users, not universal psychological facts. A separate green marker may be used for “checked and added in” only if clearly defined as an additional review state; it must not replace the original three meanings.
 
 ## 2A. Mini UI visual and the meaning of shapes
 
