@@ -10,11 +10,11 @@
 - 🔵 **COMPLETE — VERIFIED** — Shared Task Status and Colour System specification: saved to GitHub and read back; checked that the three colour meanings, unfinished-task requirements, pilot checklist, and index links are present.
 - 🔴 **NOT STARTED** — Pilot the markers on several real project tasks and assess whether they make unfinished work easier to spot.
 - 🔴 **NOT STARTED** — Research university examples of short practical assignments and marking rubrics, then design the first Week 1 assessment pilot.
-- 🟢 **CHECKED AND ADDED IN** — Created Week 1 Lesson 4, Lesson 5, assignment rubric, and reusable worksheet template; Week 1 index now links Lesson 1 to its existing file in the legacy-named folder. Read-back verification remains to be completed for the new learning files.
-- 🟠 **IN PROGRESS** — Resolve the duplicate naming patterns `schoolwork/Week_1/` and `schoolwork/week-01/` without deleting or losing lesson material.
+- 🟢 **CHECKED AND ADDED IN** — Created Week 1 Lesson 4, Lesson 5, assignment rubric, and reusable worksheet template; read-back checks confirmed these files and the revision cards are present. Lesson 1 still resides in the legacy-named folder pending reconciliation.
+- 🟠 **IN PROGRESS** — Resolve the duplicate naming patterns `schoolwork/Week_1/` and `schoolwork/week-01/` without deleting or losing lesson material. Compared both Lesson 2 files in full; they contain distinct useful content and must be consolidated carefully.
 - 🔴 **IN PROGRESS** — Recover the exact original wording of the earlier 13-prompt master library.
 - 🔴 **IN PROGRESS** — Reconcile conversation-only prompt drafts with repository versions.
-- 🟠 **IN PROGRESS** — Add and reconcile detailed evidence and test outcomes for use-case records.
+- 🟠 **IN PROGRESS** — Add and reconcile detailed evidence and test outcomes for use-case records. The press-and-hold thread-preview proposal is captured in SA-UX-006 and the Workflow Diary; it remains untested.
 - 🟢 **CHECKED AND ADDED IN** — Added the historical reconstruction tracker and updated the project-management index.
 - 🟢 **CHECKED AND ADDED IN** — Added SA-UX-006 through SA-UX-010 and updated the use-case index; new records remain amber until evidence and tests are validated.
 - 🟢 **CHECKED AND ADDED IN** — Added an initial evidence register, DEC-001 repository-record decision, and EXP-001 thread-preview usability-test plan; the experiment has not been run.
