@@ -145,3 +145,22 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Newly created learning files and all indexes still need a systematic read-back/link audit. The whole repository has not yet been verified for empty folders, broken links, duplicate content, or inconsistent status symbols.
 - The repository is public; review privacy and visibility before adding any further personal or confidential material.
 - Do not report background work as continuing while the session is idle. Work is recorded here only after the corresponding repository operations.
+
+## 2026-10-26 — Journalled thread-preview proposal and compared Week 1 Lesson 2 variants
+
+### Completed and verified
+- Added a clearly labelled retrospective session entry to the [Workflow Diary](WORKFLOW_DIARY.md), capturing the user's press-and-hold thread-preview proposal, why it matters, the stopping point, linked records, and next actions.
+- Read the saved diary entry back from GitHub and verified that the thread-preview proposal and retrospective label are present.
+- Compared both Lesson 2 files in full: `schoolwork/Week_1/Lesson_02_Problem_Framing.md` and `schoolwork/week-01/Lesson_02_Define_the_Problem_before_the_Solution.md`.
+
+### Lesson 2 comparison findings
+- The `Week_1` version has a more explicit evidence-versus-hypothesis exercise, a structured problem frame, a practical task, exit questions, and tutor notes.
+- The `week-01` version includes a different worked example, a guided practice checklist, completion evidence, and a source/scope note referencing Carnegie Mellon HCII.
+- The two files overlap but are not exact duplicates. No lesson file was deleted or overwritten during this comparison.
+- Next decision: consolidate the useful unique teaching content into one canonical Week 1 Lesson 2, preserve provenance and any unique source note, then replace the legacy duplicate with a clear pointer only after the merged canonical file and all inbound links have been checked.
+
+### Still open
+- The diary/work log audit is not complete; earlier ideas still need to be extracted in manageable groups.
+- The repository-wide relative-link audit and master-prompt version comparison remain outstanding.
+- The repository remains public until the owner changes visibility in GitHub settings.
+
