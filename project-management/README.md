@@ -5,8 +5,9 @@ This folder holds the project's scope, working agreements, current status, work 
 ## Core records
 
 - [Current status](STATUS.md) — visible state of current work and outstanding tasks.
+- [Historical Reconstruction and Repository Reconciliation](HISTORICAL_RECONSTRUCTION_AND_RECONCILIATION.md) — inventory of historical topics, work completed, and the remaining audit queue.
 - [Design Principles](Design_Principles.md) — philosophical continuity across ideas, documents, prototypes, and the eventual interface.
-- [Task Status and Colour System](Task_Status_and_Colour_System.md) — shared blue/yellow/red meanings, research rationale, and the first documentation pilot.
+- [Task Status and Colour System](Task_Status_and_Colour_System.md) — agreed status colours and their use in project records.
 - [Work log](WORK_LOG.md) — concise, dated record of meaningful project changes.
 - [Workflow diary](WORKFLOW_DIARY.md) — session and milestone recaps, including aims, decisions, completed work, verification, hurdles, and next steps.
 
