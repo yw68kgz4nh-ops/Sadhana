@@ -7,6 +7,8 @@
 
 ## Current task status
 
+- 🟢 **CHECKED AND ADDED IN** — File-by-file repository inventory created and read back: 56 files across 16 directories. This is an inventory/triage report, not a completed line-by-line content or link audit. See [File-by-File Repository Audit](FILE_BY_FILE_AUDIT_2026-10-26.md).
+
 - 🔵 **COMPLETE — VERIFIED** — Shared Task Status and Colour System specification: saved to GitHub and read back; checked that the three colour meanings, unfinished-task requirements, pilot checklist, and index links are present.
 - 🔴 **NOT STARTED** — Pilot the markers on several real project tasks and assess whether they make unfinished work easier to spot.
 - 🔴 **NOT STARTED** — Research university examples of short practical assignments and marking rubrics, then design the first Week 1 assessment pilot.
