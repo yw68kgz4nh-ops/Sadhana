@@ -15,6 +15,9 @@ Record observed user needs, friction, limitations, failures, and opportunities f
 - [SA-UX-009 — Progress Transparency and Verified Completion](SA-UX-009_Progress_Transparency_and_Verified_Completion.md) — distinguish planned, running, completed, and verified work.
 - [SA-UX-010 — Project Conversation Discoverability](SA-UX-010_Project_Conversation_Discoverability.md) — finding chats within the correct project.
 
+- [SA-UX-011 — Cross-Assistant Work Exchange](SA-UX-011_Cross_Assistant_Work_Exchange.md) — complete, authorised handoffs and version control.
+- [SA-UX-012 — Constructive Challenge and Review](SA-UX-012_Constructive_Challenge_and_Review.md) — evidence-based objections, alternatives, and evaluation.
+
 ## Record fields
 
 - Intended outcome and context
