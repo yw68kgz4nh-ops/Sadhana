@@ -216,3 +216,7 @@ Created master prompt v0.7 with a standing rule to polish the learner's substant
 
 ## 2026-11-01 — CMU Lecture 3 learning material
 Added and indexed an original beginner-friendly adaptation of the next published topic, History of AI & HCI. The learner's exercise and recall check are pending; prior practical ML exercise and quiz remain incomplete. Files were read back for verification.
+
+
+## 2026-11-01 — Define terminology before advancing
+Recorded the learner's request for plain-language definitions and concrete examples for every new term. Updated master prompt to v0.8, teaching guide, and Lecture 3 lesson. Read-back verification follows.
