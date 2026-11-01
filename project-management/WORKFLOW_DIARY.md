@@ -558,3 +558,7 @@ Asked whether the learner wanted a test plan kept in spoken form or polished for
 
 ## 2026-11-01 — Next published CMU topic taught
 The learner asked to move to the next syllabus topic. Checked the public Spring 2026 course schedule: Lecture 3 is History of AI & HCI; a no-class week appears after Week 1. Created an original accessible overview, clearly labeled as an adaptation, and stored it in the schoolwork folder. It covers command-based systems, graphical interaction, connected computing, adaptive ML, and generative/agentic interaction, with a Sadhana naming example, exercise, and recall questions. Indexed the lesson and updated the resume checkpoint. The learner's answers are pending.
+
+
+## 2026-11-01 — Beginner-first explanations
+The learner instructed that teaching must explain each technical term and give an example before moving on, because they are starting without assumed AI/HCI background. They asked specifically for explanations of “hand-written rules,” “AI learning,” and “HCI.” Clarified that hand-written rules are programmer-authored instructions encoded in software, not AI literally written on paper. Added this as a standing rule in master prompt v0.8 and the teaching guide, and added plain-language scaffolding to the Lecture 3 lesson. Preserve the learner's pace and explain unfamiliar terms before using them.
