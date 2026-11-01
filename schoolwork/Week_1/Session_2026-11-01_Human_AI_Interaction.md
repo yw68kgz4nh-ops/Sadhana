@@ -170,3 +170,8 @@ Learner proposed applying appropriate VAT/tax settings and a recorded 10% custom
 
 ## Guidelines continuation — easy correction
 Learner requested the next guideline. Presented an original explanation of making mistakes easy to correct: if the wizard uses a saved 10% discount but the user says this particular job has no discount, allow the user to edit that field, recalculate the draft, and see confirmation. Explain scope: changing one invoice should not silently update the customer's permanent discount setting. Define error recovery as helping a person get back to the intended task after an error. Exercise pending: for “no discount on this job,” should the change affect the current draft or all future invoices? No new official CMU guideline number or quotation is claimed.
+
+
+## Learner design — red-square discount correction
+Learner proposed a red square next to a problematic discount. Attempting to save would take the user back to that field and prevent completion. Selecting it would offer the customer's current recorded discount (example 20%); accepting removes the marker, allowing email sending.
+Teaching feedback: strong localisation of an issue and actionable recovery using the established red-square meaning. Pair colour/shape with a specific written explanation of the detected discrepancy. Refine by preserving the draft and blocking issuing/sending rather than preventing all saving. A difference from the customer record is not automatically an error; allow an explicitly authorised exception. On choosing the saved discount, update totals, recheck, and remove the error only if resolved. Correction makes the invoice ready for review/sending; do not silently send solely because the marker disappeared. Proposal only, not implementation.
