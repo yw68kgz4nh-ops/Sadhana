@@ -189,3 +189,6 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 - Created `prompts/master/Shared_AI_Working_Philosophy_v0.6.md`, preserving v0.5, and made v0.6 current in `prompts/README.md`.
 - Made GitHub saving, indexing and read-back verification explicit; updated the weekly lesson task with the same requirement.
 - Added the full process record to `WORKFLOW_DIARY.md`. Verification uses file read-back; no software implementation or test suite was involved.
+
+## 2026-11-01 — Five terms explained
+Added and indexed `schoolwork/Week_1/Five_Core_Terms_Explained.md` at the learner's request. Recorded the explanation in the Workflow Diary and retained learning-in-progress status. Verification: compare saved GitHub contents with intended text.
