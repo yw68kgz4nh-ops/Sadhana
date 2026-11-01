@@ -550,3 +550,7 @@ In the practical ML preference-learning exercise, the learner said traffic-light
 
 ## 2026-11-01 — Learner's test plan for status markers
 The learner proposed an AI coding-mode test with examples of code being written, completed, and broken. Markers should reflect the working state and disappear from the final code/output after it is checked and authorized; the learner suggested rerunning tests during development. Teaching refinement: define expected outcomes before testing, include finished-but-awaiting-human-review, distinguish internal working record from final deliverable, and validate AI-generated tests with an independent expected-results list or human check and an unseen case. This guards against AI and its tests sharing the same mistaken assumption. Added to the session checkpoint; quiz remains open.
+
+
+## 2026-11-01 — Standing preference to polish learner contributions
+Asked whether the learner wanted a test plan kept in spoken form or polished for coursework. The learner requested: “polish everything I do.” Scope from the immediate coursework context: polish substantive learning and project contributions, preserve meaning, reasoning, examples and authorship, avoid adding claims, and keep a faithful record of the learner's contribution. Added this guidance to current shared master prompt v0.7 and teaching guide. The session record includes a polished version of the learner's status-marker test plan, plus a clearly separated teaching refinement. Files are read back before claiming verification.
