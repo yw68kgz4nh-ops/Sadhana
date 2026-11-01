@@ -546,3 +546,7 @@ During the practical machine-learning lesson, the learner proposed that AI notic
 
 ## 2026-11-01 — Human review state and final-document boundary
 In the practical ML preference-learning exercise, the learner said traffic-light status markers help in multi-agent work when they show an agent finished its contribution but the learner has not yet reviewed it. The learner said such markers would hinder a university paper submitted in final print: they are a user-facing work aid, not decoration for the final academic argument. Record these as separate requirements: distinguish agent-complete from human-reviewed/accepted, and keep internal workflow status out of final deliverables. No specific colour assignment was agreed. Added this example to today's session record; further exercise and quiz remain pending.
+
+
+## 2026-11-01 — Learner's test plan for status markers
+The learner proposed an AI coding-mode test with examples of code being written, completed, and broken. Markers should reflect the working state and disappear from the final code/output after it is checked and authorized; the learner suggested rerunning tests during development. Teaching refinement: define expected outcomes before testing, include finished-but-awaiting-human-review, distinguish internal working record from final deliverable, and validate AI-generated tests with an independent expected-results list or human check and an unseen case. This guards against AI and its tests sharing the same mistaken assumption. Added to the session checkpoint; quiz remains open.
