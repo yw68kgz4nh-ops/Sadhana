@@ -531,3 +531,6 @@ The user then reiterated that saving belongs in the AI prompts. Version 0.5 alre
 The scheduled Weekly UX Mini Session was also updated successfully to read the repository checkpoint, save learning materials, and verify GitHub writes. This records an updated task instruction, not proof of any future execution or migration of every historical conversation.
 
 **Resume:** use the five-term card for recall, then continue the CMU-aligned introductory sequence and practical machine-learning foundations at a suitable pace.
+
+## 2026-11-01 — Fuller explanation of five core terms
+The learner requested a deeper explanation of all five terms before moving forward. Prepared and saved `schoolwork/Week_1/Five_Core_Terms_Explained.md`, covering human–AI interaction, user control, transparency, predictability, and visibility of system status, with mechanisms, examples, failure cases, distinctions, and reflection questions. Linked from the schoolwork index. This is original adapted teaching, not reproduced CMU lecture content. Learning remains in progress; independent understanding has not yet been assessed. Read-back verification is performed before reporting the write as verified.
