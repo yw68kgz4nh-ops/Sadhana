@@ -111,3 +111,11 @@ The learner asked for every new term to be explained before advancing, with a co
 
 ## History lesson — spoken continuation
 The learner confirmed that the plain-language definitions of AI, HCI, programmer-written rules, machine learning, examples/data, training, model, and prediction made sense, then asked to continue the prior history explanation. Continued with one file-renaming example: command interfaces require a correctly formatted typed instruction; graphical user interfaces show files and controls; HCI evaluates whether the interaction is understandable and recoverable; feedback and undo help confirm or reverse actions; machine-learning suggestions add a guess that should remain inspectable and under the person's control. Explained that these approaches coexist in modern systems rather than cleanly replacing one another. A quick-check question is pending. Lecture 3 remains in progress.
+
+
+## History lesson — fixed-rule example response
+The learner observed that an exact “invoice” search would miss titles such as “bill,” “pro forma invoice,” or “purchase order,” and suggested grouping corresponding terms. They also noted the burden of learning different command syntax, including programming languages.
+
+Polished contribution: “A document-sorting system should account for familiar alternative titles rather than relying on one exact word. However, related terms still need careful classification: a purchase order is connected to an invoice workflow but is not itself an invoice. If the category is uncertain, the system should show a reviewable suggestion instead of silently filing it.”
+
+Teaching feedback: a fixed rule can include manually specified alternate words, but it will not automatically cover every new phrase. “Command interface” means entering system-specific commands; it does not necessarily mean writing Python or C++ code. The assistant clarified this distinction. Next question—whether to auto-file or ask for confirmation on “purchase order”—is pending.
