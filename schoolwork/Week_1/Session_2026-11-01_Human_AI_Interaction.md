@@ -49,3 +49,11 @@ No formal grade, complete recall check, or completion claim is supported.
 The learner asked to move to the next lesson. Taught a beginner-friendly introduction based on the next published topic in the CMU sequence: practical machine learning. Covered AI vs ML, data/examples/labels, training, models, inference, predictions, train/test separation, generalisation, supervised/unsupervised/reinforcement learning, LLM use of current context, and failure checking. A practical file-sorting exercise and four recall questions were given. The learner has not answered them yet; this lesson and Week 1 remain in progress.
 
 Next checkpoint: discuss the learner's exercise and quiz answers, clarify as needed, then continue the published course sequence. Full lesson: [CMU adapted Lesson 2 — Practical Machine Learning](CMU_Adapted_Lesson_02_Practical_Machine_Learning.md).
+
+
+## Practical ML — learner's first response
+The learner proposed that a system notice repeatedly discussed features and use them in later learning work. Example: the traffic-light status system is documented in a use case and requested repeatedly, so a learning assistant should apply it consistently in new learning materials.
+
+Teaching feedback: repetition can serve as a signal of a preference. In ML language, frequency could be one input feature for a prediction, but it is not proof by itself. A reliable system should also retrieve the authoritative Sadhana instruction, consider which task the preference applies to, and distinguish an explicit standing rule from a pattern it has only inferred. Do not claim that a model has permanently learned a preference just because it appeared in conversation.
+
+The learner has begun the practical exercise; the rest of the exercise and quiz are not yet answered. Week 1 remains in progress. Next: explain how examples, labels, and test data could help evaluate a system that detects and applies recurring design preferences, including how it might wrongly apply an old or context-specific preference.
