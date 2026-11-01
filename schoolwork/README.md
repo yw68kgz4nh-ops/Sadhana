@@ -6,6 +6,7 @@ This folder is the single home for learning materials, lessons, assignments, fee
 
 Follow the published Spring 2026 topic order for CMU's Human–AI Interaction course 05-318/05-618: [course site and syllabus link](https://haiicmu.github.io/), [teaching schedule](https://haiicmu.github.io/calendar/). Its first week lists Introduction to Human-AI Interactions and Practical Machine Learning. Our teaching, examples, exercises and pacing are adaptations. The earlier beginner plan below remains supplementary, rather than CMU's official syllabus.
 
+- [CMU adapted Lesson 2 — Practical Machine Learning](Week_1/CMU_Adapted_Lesson_02_Practical_Machine_Learning.md) — beginner-friendly adaptation of the second published Week 1 topic.
 - [Five Core Terms — How They Work](Week_1/Five_Core_Terms_Explained.md) — detailed explanations and Sadhana examples.
 - [Five Core Terms — Revision Card](Week_1/Core_Five_Terms_Revision_Card.md)
 - [2026-11-01 lesson record and resume checkpoint](Week_1/Session_2026-11-01_Human_AI_Interaction.md)
