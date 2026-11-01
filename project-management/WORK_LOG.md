@@ -227,3 +227,10 @@ Recorded the learner's request for plain-language definitions and concrete examp
 - Explained typed commands, graphical user interfaces, HCI, feedback, undo, and machine-learning suggestions through one file-renaming example.
 - Clarified that these interaction approaches coexist; the design question is how increased system initiative can preserve human understanding and control.
 - Updated the adapted Lecture 3 and dated session record. Quick-check response remains pending; no mastery or lesson-completion claim is made.
+
+
+## 2026-11-01 — Fixed-rule classification discussion
+- Recorded the learner's proposal to account for alternate document names rather than searching only for “invoice.”
+- Clarified the design distinction between alternate names and related document types: “purchase order” may relate to an invoice workflow but should not automatically be treated as an invoice.
+- Clarified that command interfaces do not necessarily involve writing a programming language.
+- Updated the Lecture 3 lesson, session record, diary, and work log. The next review question is still open.
