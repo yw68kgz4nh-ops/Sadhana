@@ -534,3 +534,7 @@ The scheduled Weekly UX Mini Session was also updated successfully to read the r
 
 ## 2026-11-01 — Fuller explanation of five core terms
 The learner requested a deeper explanation of all five terms before moving forward. Prepared and saved `schoolwork/Week_1/Five_Core_Terms_Explained.md`, covering human–AI interaction, user control, transparency, predictability, and visibility of system status, with mechanisms, examples, failure cases, distinctions, and reflection questions. Linked from the schoolwork index. This is original adapted teaching, not reproduced CMU lecture content. Learning remains in progress; independent understanding has not yet been assessed. Read-back verification is performed before reporting the write as verified.
+
+
+## 2026-11-01 — Practical Machine Learning lesson begun
+The learner asked to continue to the next lesson. Prepared and delivered an original beginner-friendly adaptation of Carnegie Mellon University's second published Week 1 topic, Practical Machine Learning. Created `schoolwork/Week_1/CMU_Adapted_Lesson_02_Practical_Machine_Learning.md` with concepts, Sadhana examples, an exercise, quiz and revision card. Indexed it in the schoolwork README and updated the dated session checkpoint. Teaching state remains in progress; learner exercise and recall answers are pending. Verify all writes by reading the saved files back.
