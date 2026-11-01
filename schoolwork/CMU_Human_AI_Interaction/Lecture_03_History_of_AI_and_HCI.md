@@ -202,3 +202,16 @@ A good interface labels this as a suggestion, lets you inspect it, and asks befo
 These approaches did not simply replace one another. A modern app can have buttons, fixed rules, and machine-learning suggestions all at once. Over time, systems gained more ways to respond and make suggestions, so the design challenge shifted: the computer should do more of the work without taking away the person’s understanding or control.
 
 **Quick check:** If a fixed rule only looks for the word “invoice,” what might it do with a file called “bill.pdf”? How might a system trained on examples behave differently—and why should its result still be checked?
+
+
+## Learner response — exact rules and related document names
+
+The learner identified two problems with a system that searches only for the exact word “invoice”: it can miss other titles, and people may need to know precise syntax. They proposed checking familiar or corresponding terms such as “bill,” “pro forma invoice,” and “purchase order.”
+
+### Teaching note
+
+This is a strong improvement idea. A programmer can extend a 🟨 **fixed rule** with a list of words: “invoice,” “bill,” and “pro forma invoice.” But a fixed rule only covers terms someone has explicitly added; it does not automatically understand every new phrase. Also, “purchase order” is related to an invoice in a business process, but it is a different kind of document. A good filing system should not treat “related” as “the same.” It could use separate categories and, when unsure, show a suggestion for the person to review.
+
+A small correction to the earlier example: a 🟨 **command interface** does not always mean writing Python or C++ code. It can mean entering a system-specific command. Some commands do use programming-like syntax, but others are simpler. The design issue remains: users may have to learn and remember exact instructions.
+
+**Next check:** If the system sees “purchase order,” should it silently file it as an invoice, or suggest a category and let the person confirm? Explain why.
