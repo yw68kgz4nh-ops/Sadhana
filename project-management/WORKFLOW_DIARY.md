@@ -538,3 +538,7 @@ The learner requested a deeper explanation of all five terms before moving forwa
 
 ## 2026-11-01 — Practical Machine Learning lesson begun
 The learner asked to continue to the next lesson. Prepared and delivered an original beginner-friendly adaptation of Carnegie Mellon University's second published Week 1 topic, Practical Machine Learning. Created `schoolwork/Week_1/CMU_Adapted_Lesson_02_Practical_Machine_Learning.md` with concepts, Sadhana examples, an exercise, quiz and revision card. Indexed it in the schoolwork README and updated the dated session checkpoint. Teaching state remains in progress; learner exercise and recall answers are pending. Verify all writes by reading the saved files back.
+
+
+## 2026-11-01 — Practical ML exercise response
+During the practical machine-learning lesson, the learner proposed that AI notice features/preferences repeatedly discussed and apply them in later learning work. Example: Sadhana's traffic-light system is documented in a use case and has been requested repeatedly, so future learning materials should use it. Feedback: repetition/frequency can be a signal, but needs task context and the authoritative saved instruction; an inferred pattern is not equivalent to a confirmed standing preference or proof of model retraining. Recorded the answer and next checkpoint in the dated session record. Exercise is underway; quiz not yet answered.
