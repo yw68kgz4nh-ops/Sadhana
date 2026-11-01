@@ -103,3 +103,7 @@ The learner has not yet reviewed or approved this expanded wording. The lesson r
 
 ## Course sequence resumed — Lecture 3: History of AI & HCI
 The learner asked to continue with the next syllabus topic. The public CMU Spring 2026 schedule lists Lecture 3 as History of AI & HCI after Practical Machine Learning (with a no-class week in between on the university calendar). Taught an original overview of command-based computing, graphical interfaces, connected systems, machine-learning adaptation, and generative/agentic interaction. Linked the historical shifts to user control and Sadhana file naming. Created a practical exercise and recall questions; learner response is pending. Practical ML exercise and quiz remain incomplete, and no course mastery or completion is claimed. Lesson: [CMU adapted Lecture 3 — A Brief History of AI and HCI](../CMU_Human_AI_Interaction/Lecture_03_History_of_AI_and_HCI.md).
+
+
+## Teaching preference — define terms before moving on
+The learner asked for every new term to be explained before advancing, with a concrete example, as they are starting from no assumed background in AI/HCI. They specifically asked what “hand-written rules,” “AI learning,” and “HCI” mean. Clarification: “hand-written rules” means a programmer explicitly writes rules into software; it does not mean the AI itself is literally written on paper. Subsequent lessons should define each term and give one example before introducing more vocabulary.
