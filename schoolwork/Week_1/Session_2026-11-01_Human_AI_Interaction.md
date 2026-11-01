@@ -142,3 +142,7 @@ Continued the current explanation with uncertainty, using the hard-drive replace
 
 ## Uncertainty exercise — parts availability
 The learner proposed asking whether all required parts are available before estimating completion. Missing parts increase the elapsed time; they proposed an assistant sourcing, purchasing, and arranging delivery. Teaching feedback: distinguish hands-on repair time from overall completion time, including procurement and delivery. A dependency is something that must be available or completed before another task can proceed. The assistant should check compatibility, stock, price, and estimated delivery; purchasing requires agreed authority such as approval or a pre-authorised budget and supplier policy. Supplier delivery estimates should not be presented as guarantees. This is a proposed design scenario; no search, purchase, or delivery was initiated.
+
+
+## Quick quiz begun
+Learner agreed to a quick quiz. Plan: three short questions, one at a time, with spoken answers accepted. Question 1: the assistant finds John Smith's email address in an existing customer record. Is this retrieval, prediction, model training, or uncertainty? Expected answer: retrieval, because the address is looked up from an existing record. Learner answer pending; no score assigned.
