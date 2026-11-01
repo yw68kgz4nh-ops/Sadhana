@@ -204,3 +204,7 @@ Added the learner's example of recurring traffic-light preferences and the next 
 
 ## 2026-11-01 — Status markers in multi-agent work
 Recorded the learner's distinction between AI-agent completion and human review, plus the boundary that workflow markers belong in working records and not in final university submissions. No new colour mapping was assigned. Read-back verification follows the update.
+
+
+## 2026-11-01 — Status-marker test scenario
+Recorded the learner's proposed coding-mode test across in-progress, finished, and broken states, including removal from final output after review/authorization. Added a refinement to define expected outcomes and include an independent check. Updated and read back today's session record and diary.
