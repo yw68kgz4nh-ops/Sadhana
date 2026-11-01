@@ -208,3 +208,7 @@ Recorded the learner's distinction between AI-agent completion and human review,
 
 ## 2026-11-01 — Status-marker test scenario
 Recorded the learner's proposed coding-mode test across in-progress, finished, and broken states, including removal from final output after review/authorization. Added a refinement to define expected outcomes and include an independent check. Updated and read back today's session record and diary.
+
+
+## 2026-11-01 — Learner contribution polishing preference
+Created master prompt v0.7 with a standing rule to polish the learner's substantive coursework and project contributions while preserving meaning and authorship. Updated prompt index and teaching guide. Added the preference and a polished version of the learner's test-plan contribution to today's session record; separated the additional teaching refinement. Read-back verification follows.
