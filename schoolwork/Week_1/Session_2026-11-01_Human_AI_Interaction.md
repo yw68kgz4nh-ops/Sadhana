@@ -57,3 +57,11 @@ The learner proposed that a system notice repeatedly discussed features and use 
 Teaching feedback: repetition can serve as a signal of a preference. In ML language, frequency could be one input feature for a prediction, but it is not proof by itself. A reliable system should also retrieve the authoritative Sadhana instruction, consider which task the preference applies to, and distinguish an explicit standing rule from a pattern it has only inferred. Do not claim that a model has permanently learned a preference just because it appeared in conversation.
 
 The learner has begun the practical exercise; the rest of the exercise and quiz are not yet answered. Week 1 remains in progress. Next: explain how examples, labels, and test data could help evaluate a system that detects and applies recurring design preferences, including how it might wrongly apply an old or context-specific preference.
+
+
+## ML exercise — status-marker boundaries and human review
+The learner gave a useful example of when status markers help: work produced by multiple AI agents needs a marker showing an agent has finished while the learner has not yet reviewed or accepted the work. The learner also said markers hinder a final university paper because they can look childish or distract from the submitted argument; the markers are for the user's working process and should not appear in the final print.
+
+Teaching point: a collaborative workflow should distinguish at least “agent work finished, awaiting human review” from “human reviewed and accepted.” Do not present an agent's completed draft as human-verified. Keep workflow state in an internal project record, separate from the clean final deliverable. The learner described a semantic need; no new colour assignment was agreed here.
+
+This answer advances the practical ML exercise by identifying a context boundary for applying learned preferences. The remaining exercise and quiz are still open.
