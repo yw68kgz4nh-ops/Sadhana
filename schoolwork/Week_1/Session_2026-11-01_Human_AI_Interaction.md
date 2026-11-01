@@ -150,3 +150,7 @@ Learner agreed to a quick quiz. Plan: three short questions, one at a time, with
 
 ## Quick quiz — responses and next question
 Q1: learner answered “retrieval”; correct by concept, regardless of the preceding spoken “A.” Q2: adding ten days to a date; learner answered “uncertainty.” Correction: this calculation is a fixed rule; uncertainty concerns an unknown outcome such as whether a part will arrive by the deadline. Q3 pending: before a purchase not already authorised, should the assistant show the component, total cost, and delivery estimate and ask for confirmation? Assesses user control. Quiz is still in progress; Q1 correct and Q2 needs reinforcement.
+
+
+## Quiz Q2 — second attempt and clarification
+Learner revised the answer to “prediction.” Clarified: adding ten days to a given date is a fixed-rule calculation; estimating that a supplier will deliver in ten days is a prediction; uncertainty concerns whether that estimate will hold. Q2 still needs reinforcement. Pause before Q3 and use this distinction without introducing another quiz question.
