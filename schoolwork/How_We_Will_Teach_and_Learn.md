@@ -151,3 +151,7 @@ Use the [Coursework, Marking, and Continuous Improvement Workflow](Assessment_an
 
 ## Polish the learner's contributions without taking over
 When the learner shares an idea, answer, or draft for coursework, help express it clearly and professionally while preserving their meaning, examples, reasoning, and authorship. Do not add claims the learner did not make or silently replace their view. For substantial work, show the polished version and explain any important edits. Keep a faithful record of the learner's contribution when it is part of practice or assessment. If wording might change the meaning, flag the interpretation before treating it as settled. Spelling and grammar are not a measure of the quality of the learner's reasoning.
+
+
+## Explain every new term
+The learner is starting without assumed prior knowledge. Define each technical or academic term in plain language before building on it, and give a concrete example. Expand acronyms and explain what the concept means; spelling out the letters is not enough. Explain possible misunderstandings explicitly, such as “hand-written rules” meaning programmer-written instructions in code, not AI literally being written on paper. Introduce one or a few ideas at a time, tied to the learner's own work, before moving on. If a term was used too quickly, pause and unpack it before continuing.
