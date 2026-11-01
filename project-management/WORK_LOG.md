@@ -220,3 +220,10 @@ Added and indexed an original beginner-friendly adaptation of the next published
 
 ## 2026-11-01 — Define terminology before advancing
 Recorded the learner's request for plain-language definitions and concrete examples for every new term. Updated master prompt to v0.8, teaching guide, and Lecture 3 lesson. Read-back verification follows.
+
+
+## 2026-11-01 — Continue History of AI & HCI lesson
+- Continued the lesson at the learner's requested beginner pace after confirming the terminology was clear.
+- Explained typed commands, graphical user interfaces, HCI, feedback, undo, and machine-learning suggestions through one file-renaming example.
+- Clarified that these interaction approaches coexist; the design question is how increased system initiative can preserve human understanding and control.
+- Updated the adapted Lecture 3 and dated session record. Quick-check response remains pending; no mastery or lesson-completion claim is made.
