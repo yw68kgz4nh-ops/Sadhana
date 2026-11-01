@@ -119,3 +119,9 @@ The learner observed that an exact “invoice” search would miss titles such a
 Polished contribution: “A document-sorting system should account for familiar alternative titles rather than relying on one exact word. However, related terms still need careful classification: a purchase order is connected to an invoice workflow but is not itself an invoice. If the category is uncertain, the system should show a reviewable suggestion instead of silently filing it.”
 
 Teaching feedback: a fixed rule can include manually specified alternate words, but it will not automatically cover every new phrase. “Command interface” means entering system-specific commands; it does not necessarily mean writing Python or C++ code. The assistant clarified this distinction. Next question—whether to auto-file or ask for confirmation on “purchase order”—is pending.
+
+
+## Learner proposal — guided purchasing workflow
+The learner proposed an on-screen wizard that asks for the company, work description, and amount, then generates a document, emails it, saves a copy in the correct folder, and tracks a ten-day deadline. If unresolved after ten days, the system should surface the item with a reminder.
+
+Teaching feedback: this demonstrates workflow design and automation. Clarify the document before implementation: a buyer normally creates a purchase order; a supplier normally creates a pro forma invoice. Define what the deadline means and what evidence counts as resolved, so a reminder does not incorrectly report non-completion. Explicit form fields, templates, filing rules, and date comparisons can operate without machine learning; AI could help interpret descriptions or suggest categories. The proposed sending and reminder behavior is a design scenario, not an instruction to send email or schedule a live automation. Proposal remains unimplemented.
