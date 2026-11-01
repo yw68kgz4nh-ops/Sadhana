@@ -146,3 +146,7 @@ The learner proposed asking whether all required parts are available before esti
 
 ## Quick quiz begun
 Learner agreed to a quick quiz. Plan: three short questions, one at a time, with spoken answers accepted. Question 1: the assistant finds John Smith's email address in an existing customer record. Is this retrieval, prediction, model training, or uncertainty? Expected answer: retrieval, because the address is looked up from an existing record. Learner answer pending; no score assigned.
+
+
+## Quick quiz — responses and next question
+Q1: learner answered “retrieval”; correct by concept, regardless of the preceding spoken “A.” Q2: adding ten days to a date; learner answered “uncertainty.” Correction: this calculation is a fixed rule; uncertainty concerns an unknown outcome such as whether a part will arrive by the deadline. Q3 pending: before a purchase not already authorised, should the assistant show the component, total cost, and delivery estimate and ask for confirmation? Assesses user control. Quiz is still in progress; Q1 correct and Q2 needs reinforcement.
