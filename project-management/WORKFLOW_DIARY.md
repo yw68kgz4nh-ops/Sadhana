@@ -554,3 +554,7 @@ The learner proposed an AI coding-mode test with examples of code being written,
 
 ## 2026-11-01 — Standing preference to polish learner contributions
 Asked whether the learner wanted a test plan kept in spoken form or polished for coursework. The learner requested: “polish everything I do.” Scope from the immediate coursework context: polish substantive learning and project contributions, preserve meaning, reasoning, examples and authorship, avoid adding claims, and keep a faithful record of the learner's contribution. Added this guidance to current shared master prompt v0.7 and teaching guide. The session record includes a polished version of the learner's status-marker test plan, plus a clearly separated teaching refinement. Files are read back before claiming verification.
+
+
+## 2026-11-01 — Next published CMU topic taught
+The learner asked to move to the next syllabus topic. Checked the public Spring 2026 course schedule: Lecture 3 is History of AI & HCI; a no-class week appears after Week 1. Created an original accessible overview, clearly labeled as an adaptation, and stored it in the schoolwork folder. It covers command-based systems, graphical interaction, connected computing, adaptive ML, and generative/agentic interaction, with a Sadhana naming example, exercise, and recall questions. Indexed the lesson and updated the resume checkpoint. The learner's answers are pending.
