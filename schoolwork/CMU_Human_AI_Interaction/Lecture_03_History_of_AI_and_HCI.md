@@ -167,3 +167,38 @@ For each, say what the person must understand, what the system should show, and 
 
 ## Status and next step
 This is a course-aligned overview based on the published Lecture 3 topic. It does not complete CMU's course or establish mastery. Answer the exercise or recall questions next; then continue to the following published topic, Guidelines for Human–AI Interaction.
+
+
+## Spoken continuation — how interfaces changed
+
+We have established the two ideas behind the history: some software follows explicit instructions written by a programmer; some AI systems learn patterns from examples. Now let’s look at how the way people communicate with computers changed. We will use one task throughout: renaming a file called “Sadhana draft.docx.”
+
+### 1. Typing a command
+
+A 🟨 **command interface** lets a person type an instruction in the computer’s required format. For example, you might type a command that says: “Rename Sadhana draft.docx to Sadhana paper.docx.” The computer follows that instruction.
+
+The benefit is that a knowledgeable user can be very specific. The drawback is that the person must know the right command and type it correctly. If the command is unclear or mistyped, the computer may show an error—or the person may not know what happened.
+
+### 2. Choosing visible items on screen
+
+A 🟨 **graphical user interface (GUI)** presents things such as files, buttons, menus, and windows on screen. “Graphical” means it uses visible pictures and controls; “user interface” means the part of the system the person sees and operates.
+
+For our file, you could click “Sadhana draft.docx,” choose “Rename,” type the new name, and confirm. You can see which file you selected and what name you entered. That can be easier than remembering a special command. It still needs good design: the screen should make the selected file and the final action clear.
+
+🟨 **Human–computer interaction (HCI)** asks how well that exchange works for people. For example: can you tell which file is selected, does the rename happen only when you confirm, and can you undo it if you make a mistake?
+
+### 3. Showing the result and helping with mistakes
+
+🟨 **Feedback** is the system’s response that tells you what happened. After a rename, the file should visibly show its new name, or the system should explain why it could not rename it. 🟨 **Undo** means a way to reverse a recent action. These details help people stay oriented and recover from errors.
+
+### 4. Adding an AI suggestion
+
+A newer system might use 🟨 **machine learning**—which we have already defined—to notice patterns in example files and suggest where this file belongs. A graphical screen could show: “This looks like a Sadhana paper. Move it to Schoolwork?” The important historical change is that the system is now making a guess, rather than only carrying out the exact instruction you typed.
+
+A good interface labels this as a suggestion, lets you inspect it, and asks before making a meaningful change. The AI’s guess may save effort, but you remain able to accept, reject, or correct it.
+
+### The main historical idea
+
+These approaches did not simply replace one another. A modern app can have buttons, fixed rules, and machine-learning suggestions all at once. Over time, systems gained more ways to respond and make suggestions, so the design challenge shifted: the computer should do more of the work without taking away the person’s understanding or control.
+
+**Quick check:** If a fixed rule only looks for the word “invoice,” what might it do with a file called “bill.pdf”? How might a system trained on examples behave differently—and why should its result still be checked?
