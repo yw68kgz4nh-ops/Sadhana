@@ -200,3 +200,7 @@ Added and indexed an adapted lesson based on the next topic in Carnegie Mellon's
 
 ## 2026-11-01 — ML exercise response recorded
 Added the learner's example of recurring traffic-light preferences and the next teaching checkpoint to today's session record. Exercise remains in progress. Verified the updated record by reading it back from GitHub.
+
+
+## 2026-11-01 — Status markers in multi-agent work
+Recorded the learner's distinction between AI-agent completion and human review, plus the boundary that workflow markers belong in working records and not in final university submissions. No new colour mapping was assigned. Read-back verification follows the update.
