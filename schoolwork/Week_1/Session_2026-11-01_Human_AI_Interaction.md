@@ -65,3 +65,11 @@ The learner gave a useful example of when status markers help: work produced by 
 Teaching point: a collaborative workflow should distinguish at least “agent work finished, awaiting human review” from “human reviewed and accepted.” Do not present an agent's completed draft as human-verified. Keep workflow state in an internal project record, separate from the clean final deliverable. The learner described a semantic need; no new colour assignment was agreed here.
 
 This answer advances the practical ML exercise by identifying a context boundary for applying learned preferences. The remaining exercise and quiz are still open.
+
+
+## ML exercise — learner's proposed test scenario
+The learner proposed testing status-marker rules in a coding workflow with three sample states: code still being written, code finished, and code broken. During coding mode the appropriate status marker should appear. After the work is complete, checked, and authorized, markers should not remain in the final code/output. The learner suggested rerunning the scenario during development to ensure the rule continues to be followed.
+
+Teaching feedback: this is a concrete state-based test and identifies both expected display and expected removal. To make it reliable, write the expected result for each state before running it; include a separate “finished but awaiting human review” case; test both working record and final output; and check an example the system did not use when building its own tests. AI-generated tests can help, but an independent expected-results list or human check helps catch shared assumptions. Preserve audit status in the internal record even when omitting markers from the finished deliverable.
+
+Practical ML exercise now includes preference detection and test design. Remaining quiz questions are unanswered; Week 1 remains in progress.
