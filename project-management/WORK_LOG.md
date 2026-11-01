@@ -192,3 +192,7 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 
 ## 2026-11-01 — Five terms explained
 Added and indexed `schoolwork/Week_1/Five_Core_Terms_Explained.md` at the learner's request. Recorded the explanation in the Workflow Diary and retained learning-in-progress status. Verification: compare saved GitHub contents with intended text.
+
+
+## 2026-11-01 — Practical Machine Learning lesson
+Added and indexed an adapted lesson based on the next topic in Carnegie Mellon's published Spring 2026 Human–AI Interaction sequence. Updated today's session checkpoint; learner exercise/quiz not yet completed. Files require read-back verification.
