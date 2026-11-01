@@ -212,3 +212,7 @@ Recorded the learner's proposed coding-mode test across in-progress, finished, a
 
 ## 2026-11-01 — Learner contribution polishing preference
 Created master prompt v0.7 with a standing rule to polish the learner's substantive coursework and project contributions while preserving meaning and authorship. Updated prompt index and teaching guide. Added the preference and a polished version of the learner's test-plan contribution to today's session record; separated the additional teaching refinement. Read-back verification follows.
+
+
+## 2026-11-01 — CMU Lecture 3 learning material
+Added and indexed an original beginner-friendly adaptation of the next published topic, History of AI & HCI. The learner's exercise and recall check are pending; prior practical ML exercise and quiz remain incomplete. Files were read back for verification.
