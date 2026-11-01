@@ -196,3 +196,7 @@ Added and indexed `schoolwork/Week_1/Five_Core_Terms_Explained.md` at the learne
 
 ## 2026-11-01 — Practical Machine Learning lesson
 Added and indexed an adapted lesson based on the next topic in Carnegie Mellon's published Spring 2026 Human–AI Interaction sequence. Updated today's session checkpoint; learner exercise/quiz not yet completed. Files require read-back verification.
+
+
+## 2026-11-01 — ML exercise response recorded
+Added the learner's example of recurring traffic-light preferences and the next teaching checkpoint to today's session record. Exercise remains in progress. Verified the updated record by reading it back from GitHub.
