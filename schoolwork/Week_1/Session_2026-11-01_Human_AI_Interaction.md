@@ -73,3 +73,12 @@ The learner proposed testing status-marker rules in a coding workflow with three
 Teaching feedback: this is a concrete state-based test and identifies both expected display and expected removal. To make it reliable, write the expected result for each state before running it; include a separate “finished but awaiting human review” case; test both working record and final output; and check an example the system did not use when building its own tests. AI-generated tests can help, but an independent expected-results list or human check helps catch shared assumptions. Preserve audit status in the internal record even when omitting markers from the finished deliverable.
 
 Practical ML exercise now includes preference detection and test design. Remaining quiz questions are unanswered; Week 1 remains in progress.
+
+
+## Learner preference — polish coursework contributions
+The learner asked: “polish everything I do,” in response to whether their test plan should be kept as spoken or polished into coursework language. Treat this as a standing preference for coursework and substantive project contributions: preserve their meaning, reasoning, examples, and ownership while presenting a clear, professionally worded version. Do not introduce claims they did not make. Keep the original contribution or faithful paraphrase in the learning record, and explain material edits when useful.
+
+### Polished version of the learner's test-plan idea
+“To evaluate this behaviour, I would create a test programme with examples of code at different stages: code still in progress, code completed, and code containing errors. In coding mode, the interface should display the appropriate status marker for each state. After the code has been checked and authorised, the marker should be removed from the final output. I would rerun these test scenarios during development to confirm that the rules continue to work.”
+
+**Teaching refinement:** Include a separate case where the agent has finished its work but the human has not reviewed it. The internal record should distinguish that state from human approval, while the final deliverable remains free of workflow markers.
