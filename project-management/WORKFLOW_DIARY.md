@@ -562,3 +562,7 @@ The learner asked to move to the next syllabus topic. Checked the public Spring 
 
 ## 2026-11-01 — Beginner-first explanations
 The learner instructed that teaching must explain each technical term and give an example before moving on, because they are starting without assumed AI/HCI background. They asked specifically for explanations of “hand-written rules,” “AI learning,” and “HCI.” Clarified that hand-written rules are programmer-authored instructions encoded in software, not AI literally written on paper. Added this as a standing rule in master prompt v0.8 and the teaching guide, and added plain-language scaffolding to the Lecture 3 lesson. Preserve the learner's pace and explain unfamiliar terms before using them.
+
+
+## 2026-11-01 — Continue the history lesson at beginner pace
+After the learner confirmed the AI/HCI and machine-learning vocabulary was clear, continued the History of AI & HCI lesson rather than switching topics. Used a single file-renaming example to explain command interfaces, graphical user interfaces, HCI, feedback, undo, and AI suggestions. Clarified that fixed rules, graphical controls, and learned suggestions can coexist in one modern app. Added a quick-check question; response is pending. Lesson and session checkpoint updated in GitHub.
