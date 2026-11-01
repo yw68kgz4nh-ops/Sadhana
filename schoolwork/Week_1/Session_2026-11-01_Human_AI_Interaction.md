@@ -184,3 +184,10 @@ Polished design: display an anchored contextual message next to the affected fie
 
 ## Learner proposal — customer-folder mismatch warning
 Learner proposed warning when an invoice appears to be filed under the wrong customer (example AC Supplies). The person can continue if intentional, or decline and have the assistant find the appropriate destination. Teaching feedback: show the evidence for the mismatch, describe the invoice rather than calling the folder misplaced, offer explicit “Keep here” and “Choose suggested folder” actions. A pre-move warning is error prevention; after a move, offer undo or a reviewed move to the correct folder as recovery. Suggested destinations remain suggestions and should be confirmed; if ambiguous, ask instead of silently moving. Do not warn on every action, only meaningful detected mismatches. Proposal not implemented.
+
+
+## System-status response and requested transition
+Learner explained that absent feedback during background work leaves users unable to tell whether the system is working. They began exploring a distinctive, easy-to-use activity indicator, then explicitly requested the next lesson before selecting a design. No new visual design was agreed. Do not treat their recalled vendor animations as verified facts.
+
+## Guidelines continuation — proportionate interruptions
+Continued with choosing when to interrupt the user. Notification means a message drawing attention to an event. Routine progress (checking folders) can remain visible beside the task without blocking unrelated work. A consequential action requiring a decision (sending to a possibly wrong recipient) should pause that action and ask for a clear choice. An important event can require attention without blocking the whole application. Exercise pending: should successful background saving require dismissing a pop-up every time, or a brief visible saved message? This is an original teaching continuation, not a claimed numbered official guideline.
