@@ -82,3 +82,20 @@ The learner asked: “polish everything I do,” in response to whether their te
 “To evaluate this behaviour, I would create a test programme with examples of code at different stages: code still in progress, code completed, and code containing errors. In coding mode, the interface should display the appropriate status marker for each state. After the code has been checked and authorised, the marker should be removed from the final output. I would rerun these test scenarios during development to confirm that the rules continue to work.”
 
 **Teaching refinement:** Include a separate case where the agent has finished its work but the human has not reviewed it. The internal record should distinguish that state from human approval, while the final deliverable remains free of workflow markers.
+
+
+## Polished test-case refinement — pending learner review
+The following expands the learner's test-case idea into acceptance criteria. It is an AI-polished teaching refinement, not a verbatim learner statement or a newly agreed colour assignment.
+
+**Purpose:** Check that workflow markers reflect the real state of coding work, help the user review it, and do not leak into final deliverables.
+
+| Test state | Expected behaviour |
+|---|---|
+| Code is still being written | Show a clear working state in the coding interface. |
+| Agent has finished; human review is pending | Show that agent work is complete but not yet reviewed or approved. |
+| Code is broken or a check fails | Show a clear issue state and the available recovery step. |
+| Human has checked and authorised the result | Record verification in the internal workflow record; remove temporary workflow markers from the final code or paper. |
+
+Before running the test, write down the expected result for every state. Test the working interface and final deliverable separately. Include a new scenario the test generator did not use, and have the learner or an independent checker compare observed behaviour with the expected results. Keep any audit record needed to explain who reviewed or authorised the work.
+
+The learner has not yet reviewed or approved this expanded wording. The lesson remains in progress.
