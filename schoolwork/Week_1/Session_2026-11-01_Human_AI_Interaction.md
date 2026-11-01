@@ -99,3 +99,7 @@ The following expands the learner's test-case idea into acceptance criteria. It 
 Before running the test, write down the expected result for every state. Test the working interface and final deliverable separately. Include a new scenario the test generator did not use, and have the learner or an independent checker compare observed behaviour with the expected results. Keep any audit record needed to explain who reviewed or authorised the work.
 
 The learner has not yet reviewed or approved this expanded wording. The lesson remains in progress.
+
+
+## Course sequence resumed — Lecture 3: History of AI & HCI
+The learner asked to continue with the next syllabus topic. The public CMU Spring 2026 schedule lists Lecture 3 as History of AI & HCI after Practical Machine Learning (with a no-class week in between on the university calendar). Taught an original overview of command-based computing, graphical interfaces, connected systems, machine-learning adaptation, and generative/agentic interaction. Linked the historical shifts to user control and Sadhana file naming. Created a practical exercise and recall questions; learner response is pending. Practical ML exercise and quiz remain incomplete, and no course mastery or completion is claimed. Lesson: [CMU adapted Lecture 3 — A Brief History of AI and HCI](../CMU_Human_AI_Interaction/Lecture_03_History_of_AI_and_HCI.md).
