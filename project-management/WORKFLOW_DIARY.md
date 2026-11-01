@@ -566,3 +566,7 @@ The learner instructed that teaching must explain each technical term and give a
 
 ## 2026-11-01 — Continue the history lesson at beginner pace
 After the learner confirmed the AI/HCI and machine-learning vocabulary was clear, continued the History of AI & HCI lesson rather than switching topics. Used a single file-renaming example to explain command interfaces, graphical user interfaces, HCI, feedback, undo, and AI suggestions. Clarified that fixed rules, graphical controls, and learned suggestions can coexist in one modern app. Added a quick-check question; response is pending. Lesson and session checkpoint updated in GitHub.
+
+
+## 2026-11-01 — Exact-word rules and related document names
+In the History of AI & HCI lesson, the learner noticed that a fixed search for “invoice” could miss “bill,” “pro forma invoice,” or “purchase order,” and proposed using corresponding terms. Polished as a rule-design insight: account for alternate titles, but distinguish synonyms from documents that are only related. A purchase order is part of the same business workflow but is a different document type; an uncertain match should be offered for human review. Clarified that command interfaces use system-specific commands and do not necessarily require Python or C++ programming. The follow-up review question is pending.
