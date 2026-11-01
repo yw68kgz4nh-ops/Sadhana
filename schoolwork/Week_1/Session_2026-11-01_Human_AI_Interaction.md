@@ -129,3 +129,8 @@ Teaching feedback: this demonstrates workflow design and automation. Clarify the
 
 ## Next teaching step — rules versus machine learning in the wizard
 Use the learner's purchasing wizard to distinguish fixed rules (copying entered company/amount into a template, saving in a specified folder, comparing a recorded deadline with today's date) from possible machine-learning tasks (interpreting a free-text work description and suggesting a category from learned examples). Automation does not inherently require AI. A suggestion may be wrong and should remain reviewable. Check question: does adding ten days to a date require learning from examples, or a fixed instruction? Learner response pending; deadline completion criteria remain open.
+
+
+## Learner example — hard-drive replacement quotation workflow
+The learner proposed entering “hard drive change,” then using similar past jobs to draft the work description, costs, steps, and expected duration. Entering a customer name such as John Smith could retrieve the customer's saved email address, with emailing as a later workflow step. The learner's final sentence about the email recipient was unfinished.
+Teaching feedback: distinguish retrieval of saved records, prediction/estimation from examples, and explicit automation rules. Reusing one past job or looking up a contact does not necessarily train a model. Costs and duration depend on the specific computer, drive, and work required, so suggested values should be reviewable estimates. A name may match multiple contacts. The original fixed-rule check remains: adding ten days follows an explicit instruction and does not require machine learning. No live email or automation was requested or performed.
