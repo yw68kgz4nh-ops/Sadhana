@@ -154,3 +154,7 @@ Q1: learner answered “retrieval”; correct by concept, regardless of the prec
 
 ## Quiz Q2 — second attempt and clarification
 Learner revised the answer to “prediction.” Clarified: adding ten days to a given date is a fixed-rule calculation; estimating that a supplier will deliver in ten days is a prediction; uncertainty concerns whether that estimate will hold. Q2 still needs reinforcement. Pause before Q3 and use this distinction without introducing another quiz question.
+
+
+## Quick quiz — completed spoken version
+The actual final question asked in the spoken transcript was: “If AI says the part will arrive in three days, is that a fixed rule, retrieval, prediction, or user control?” This supersedes the previously planned purchasing-confirmation question, which was not administered. Learner answered “prediction because it might not come in three days.” Correct for the intended delivery-estimate scenario. Feedback: prediction estimates an unknown outcome; uncertainty describes how unsure that estimate is. If simply quoting a supplier's stored estimate, fetching that estimate would be retrieval, while the estimate itself remains a prediction. Final outcome: 2 of 3 initial answers correct (retrieval and prediction); fixed-rule date calculation needs reinforcement. This mini-quiz completion does not establish course or Week 1 completion.
