@@ -519,3 +519,15 @@ A use case explains a problem and candidate solution; the diary explains how the
 
 **Reflection**
 - The file count and the depth of review must be reported separately. An inventory is a useful milestone, but it is not proof that every file is correct.
+
+## 2026-11-01 — Lesson capture and explicit GitHub persistence
+
+**Evidence:** current supplied conversation transcript and successful GitHub writes/read-backs in this session.
+
+The user requested five recurring vocabulary terms, a revision card in GitHub, and durable saving of all agreed project work rather than reliance on model memory. Added `schoolwork/Week_1/Core_Five_Terms_Revision_Card.md` and `schoolwork/Week_1/Session_2026-11-01_Human_AI_Interaction.md`; updated `schoolwork/README.md` with links, the confirmed CMU Spring 2026 topic-sequence direction, and a save-after-session rule. All three were fetched back and matched their intended contents. Week 1 remains in progress; practical machine learning has not yet been taught.
+
+The user then reiterated that saving belongs in the AI prompts. Version 0.5 already required journalling meaningful changes, but the broad GitHub persistence requirement needed an explicit statement. Created master prompt v0.6, preserved v0.5, and updated the prompt index. The new rule covers substantive lesson and project artefacts, indexing, read-back verification, privacy, and honest reporting when saving fails. These changes are being read back before being reported as verified.
+
+The scheduled Weekly UX Mini Session was also updated successfully to read the repository checkpoint, save learning materials, and verify GitHub writes. This records an updated task instruction, not proof of any future execution or migration of every historical conversation.
+
+**Resume:** use the five-term card for recall, then continue the CMU-aligned introductory sequence and practical machine-learning foundations at a suitable pace.
