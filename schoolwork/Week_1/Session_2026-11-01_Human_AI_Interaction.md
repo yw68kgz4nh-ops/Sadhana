@@ -107,3 +107,7 @@ The learner asked to continue with the next syllabus topic. The public CMU Sprin
 
 ## Teaching preference — define terms before moving on
 The learner asked for every new term to be explained before advancing, with a concrete example, as they are starting from no assumed background in AI/HCI. They specifically asked what “hand-written rules,” “AI learning,” and “HCI” mean. Clarification: “hand-written rules” means a programmer explicitly writes rules into software; it does not mean the AI itself is literally written on paper. Subsequent lessons should define each term and give one example before introducing more vocabulary.
+
+
+## History lesson — spoken continuation
+The learner confirmed that the plain-language definitions of AI, HCI, programmer-written rules, machine learning, examples/data, training, model, and prediction made sense, then asked to continue the prior history explanation. Continued with one file-renaming example: command interfaces require a correctly formatted typed instruction; graphical user interfaces show files and controls; HCI evaluates whether the interaction is understandable and recoverable; feedback and undo help confirm or reverse actions; machine-learning suggestions add a guess that should remain inspectable and under the person's control. Explained that these approaches coexist in modern systems rather than cleanly replacing one another. A quick-check question is pending. Lecture 3 remains in progress.
