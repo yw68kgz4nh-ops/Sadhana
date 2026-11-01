@@ -542,3 +542,7 @@ The learner asked to continue to the next lesson. Prepared and delivered an orig
 
 ## 2026-11-01 — Practical ML exercise response
 During the practical machine-learning lesson, the learner proposed that AI notice features/preferences repeatedly discussed and apply them in later learning work. Example: Sadhana's traffic-light system is documented in a use case and has been requested repeatedly, so future learning materials should use it. Feedback: repetition/frequency can be a signal, but needs task context and the authoritative saved instruction; an inferred pattern is not equivalent to a confirmed standing preference or proof of model retraining. Recorded the answer and next checkpoint in the dated session record. Exercise is underway; quiz not yet answered.
+
+
+## 2026-11-01 — Human review state and final-document boundary
+In the practical ML preference-learning exercise, the learner said traffic-light status markers help in multi-agent work when they show an agent finished its contribution but the learner has not yet reviewed it. The learner said such markers would hinder a university paper submitted in final print: they are a user-facing work aid, not decoration for the final academic argument. Record these as separate requirements: distinguish agent-complete from human-reviewed/accepted, and keep internal workflow status out of final deliverables. No specific colour assignment was agreed. Added this example to today's session record; further exercise and quiz remain pending.
