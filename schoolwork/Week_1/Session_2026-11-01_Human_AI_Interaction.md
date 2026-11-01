@@ -43,3 +43,9 @@ No formal grade, complete recall check, or completion claim is supported.
 - Continue with a short recall check of these five concepts and then practical machine-learning foundations at an appropriate pace.
 - Retain the learner's preference for visually prominent key terms and voice-friendly explanations.
 - Save lesson material, exercises, learner responses, feedback, revision cards, course decisions, and resume checkpoints in Sadhana, with links and read-back confirmation. Memory alone is not evidence of saving.
+
+
+## Practical Machine Learning — lesson begun
+The learner asked to move to the next lesson. Taught a beginner-friendly introduction based on the next published topic in the CMU sequence: practical machine learning. Covered AI vs ML, data/examples/labels, training, models, inference, predictions, train/test separation, generalisation, supervised/unsupervised/reinforcement learning, LLM use of current context, and failure checking. A practical file-sorting exercise and four recall questions were given. The learner has not answered them yet; this lesson and Week 1 remain in progress.
+
+Next checkpoint: discuss the learner's exercise and quiz answers, clarify as needed, then continue the published course sequence. Full lesson: [CMU adapted Lesson 2 — Practical Machine Learning](CMU_Adapted_Lesson_02_Practical_Machine_Learning.md).
