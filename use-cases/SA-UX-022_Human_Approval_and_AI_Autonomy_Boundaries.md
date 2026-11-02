@@ -23,3 +23,17 @@ Attempt proforma-to-invoice conversion, parts order and VAT override; verify blo
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: An assistant is authorised to draft a proforma but not to send it, convert to an invoice, purchase parts, process a payment or change tax.
+
+**Expected main flow:** Keep suggestion, draft, validation, authorisation and execution as separate states. For external consequential actions, show preview and obtain explicit, action-specific human confirmation.
+
+**Failure and recovery:** If external tools lack permission, say so; do not treat a prior generic 'do everything' as authorization to spend money or make legal commitments.
+
+**Evaluation:** Test attempts to bypass confirm on sending, conversion, parts purchase and tax changes. Confirm audit shows proposed versus approved versus executed steps.
+
+**Related records:** SA-UX-012, SA-UX-019, SA-UX-024.
+
+**Evidence boundary:** The improvement is a design requirement captured retrospectively, not a verified software fix. Testing, provenance and any necessary expert review remain pending.
