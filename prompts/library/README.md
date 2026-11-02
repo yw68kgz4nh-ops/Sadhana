@@ -2,6 +2,10 @@
 
 This folder contains task-specific prompts that support the shared master prompt.
 
+## Consolidated task-specific library
+
+- [Sadhana Master Prompts Library — reconstructed v0.1](Sadhana_Master_Prompts_Library_reconstructed_v0.1.md) — one indexed document containing ten **reconstructed** task patterns with links to Prompts 13–15. It is not a verbatim recovery of the previous 13-prompt draft and does not replace the shared working philosophy v0.8.
+
 ## Available drafts
 
 - [Prompt 13 — Problem, Limitation and Solution Capture](Prompt_13_Problem_Limitation_and_Solution_Capture_draft.md) — reconstructed working draft.
