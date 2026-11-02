@@ -23,3 +23,17 @@ Simulate approaching limit, unexpected limit and unknown quota; verify warning a
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: A student is midway through a long voice lesson or repository audit and receives an interruption or quota limit without warning.
+
+**Expected main flow:** Where actual quota data exist, warn with a measured threshold and offer Finish current section, Save checkpoint or Switch input mode. Preserve explicit next step.
+
+**Failure and recovery:** If exact remaining quota isn't exposed, do not show fictitious minutes or reset hours; provide general interruption-safe checkpoints instead.
+
+**Evaluation:** Test known and unknown quota, interrupted upload, unexpected app exit, and verify a saved handover allows resumption without re-explaining.
+
+**Related records:** SA-UX-007, SA-UX-013, SA-UX-021.
+
+**Evidence boundary:** This test case is based on the Sadhana user's discussion and a reconstructed design proposal. It remains untested; do not claim the product has these capabilities.
