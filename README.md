@@ -16,6 +16,7 @@ See [Why we chose the name Sadhana](Sadhana_Name_and_Meaning.md) for the Sanskri
 - [Master prompts](prompts/README.md) — common working philosophy and prompt library.
 - [Research](research/README.md) — questions, findings, and research notes.
 - [Use cases](use-cases/README.md) — observed problems, needs, and opportunities.
+- [Improvements hub](improvements/README.md) — one entrypoint for ChatGPT/Claude improvement cases, design briefs and evidence (links to the canonical files).
 - [Experiments](experiments/README.md) — tests, prototypes, and outcomes.
 - [Decisions](decisions/README.md) — decisions, rationale, and open questions.
 - [Evidence](evidence/README.md) — source material and verification records.
