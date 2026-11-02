@@ -12,6 +12,10 @@ This is the authoritative repository location for Sadhana prompts.
 
 Do not silently overwrite a meaningful prior version. When a prompt changes materially, preserve the previous version where useful, update the version and change notes, and verify the saved file.
 
+## Consolidated task-specific prompts document
+
+- [Sadhana Master Prompts Library — reconstructed v0.1](library/Sadhana_Master_Prompts_Library_reconstructed_v0.1.md) — a single navigable working document, explicitly incomplete as a historical recovery. The master working philosophy remains v0.8.
+
 ## Migration status
 
 The current working-philosophy prompt is versioned in the repository. Other prompt drafts discussed in ChatGPT conversations are not all available as complete source files yet, so they must be reconciled before being described as fully migrated.
