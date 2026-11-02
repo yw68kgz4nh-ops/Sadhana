@@ -21,6 +21,14 @@ See [Why we chose the name Sadhana](Sadhana_Name_and_Meaning.md) for the Sanskri
 - [Evidence](evidence/README.md) — source material and verification records.
 - [Archive](archive/README.md) — superseded material retained for traceability.
 
+## Current reconstruction work
+
+- [Use-case index — 27 drafted ChatGPT/Claude improvements](use-cases/README.md) — includes original records, expanded requirements, and the latest reconstructed cases.
+- [Improvement coverage matrix](research/Improvement_Coverage_Matrix_2026-11-02.md) — overlaps, evidence boundaries and next evaluation steps.
+- [2026-11-02 repository backfill audit](project-management/REPOSITORY_RECONCILIATION_2026-11-02.md) — structural audit and open reconciliation.
+- [Current status-system specification v0.2](project-management/Task_Status_and_Colour_System.md) — blue complete, amber triangle in progress, red square needs fixing, green checked and added.
+- [Consolidated draft master prompts library](prompts/library/Sadhana_Master_Prompts_Library_reconstructed_v0.1.md) — reconstructed task prompts, not the original complete 13-prompt transcript.
+
 ## Working rules
 
 1. Distinguish observed facts, hypotheses, proposals, decisions, attempted actions, completed actions, and verified outcomes.
