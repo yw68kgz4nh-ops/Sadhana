@@ -7,7 +7,7 @@
 
 ## Current checkpoint — 2026-11-02
 
-- 🟢 **CHECKED AND ADDED IN (repository level):** GitHub `main` contained 88 files at the start of the 2026-11-02 comprehensive structural scan. Two broken relative links were found and corrected. Subsequent new documents increased the repository size; the earlier count is a dated audit baseline, not a live counter. See [the audit report](REPOSITORY_RECONCILIATION_2026-11-02.md).
+- 🟢 **CHECKED AND ADDED IN (repository level):** GitHub `main` contained 88 files at the start of the 2026-11-02 comprehensive structural scan. Two broken relative links were found and corrected. The final repository tree check in this work session counted **92 files across 20 directories**. The earlier 88 is a dated audit baseline, not a live counter. See [the audit report](REPOSITORY_RECONCILIATION_2026-11-02.md).
 - 🔵 **COMPLETE (draft capture):** Expanded SA-UX-001–005 and created SA-UX-023–027. The [use-case index](../use-cases/README.md) now enumerates 27 records. The improvements themselves are **not** implemented or tested.
 - 🔵 **COMPLETE (draft capture):** Saved floating-island task-state specification, invoice/PO wizard case study, Week 1 visibility exercise and a single consolidated **reconstructed** prompts document.
 - 🟢 **CHECKED AND ADDED IN (governance document):** Preserved v0.1 status spec, revised v0.2 for blue finished / green checked-and-added, and repaired the Week 1 status key; usability test still pending.
