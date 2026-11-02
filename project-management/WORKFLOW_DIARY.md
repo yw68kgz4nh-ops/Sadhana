@@ -570,3 +570,18 @@ After the learner confirmed the AI/HCI and machine-learning vocabulary was clear
 
 ## 2026-11-01 — Exact-word rules and related document names
 In the History of AI & HCI lesson, the learner noticed that a fixed search for “invoice” could miss “bill,” “pro forma invoice,” or “purchase order,” and proposed using corresponding terms. Polished as a rule-design insight: account for alternate titles, but distinguish synonyms from documents that are only related. A purchase order is part of the same business workflow but is a different document type; an uncertain match should be offered for human review. Clarified that command interfaces use system-specific commands and do not necessarily require Python or C++ programming. The follow-up review question is pending.
+
+
+---
+
+## 2026-11-02 — Retrospective memory-to-GitHub reconstruction
+
+**Aim:** Make historical Sadhana research recoverable from GitHub; include missing improvement use cases and useful design/coursework material without claiming that recalled discussions are exact transcripts.
+
+**Decisions and work:** Keep one authoritative repository and use-case index; preserve historical versions; extend early short cases to a twelve-part requirement structure; separately document the floating-island task-status interaction, invoice/PO wizard and visibility-of-system-status learning exercise. Consolidate reconstructed task prompts in one clearly labelled document rather than creating conflicting 'current' masters. Respect the user's rule that internal workflow markers should not appear in clean final papers.
+
+**Actions:** Queried GitHub tree; inspected 88 files during a structural/internal-link pass; corrected two broken relative links; expanded SA-UX-001–005 and added SA-UX-023–027; revised the status specification after preserving v0.1; refreshed selected indexes, research/evidence and learning paths. The resulting 27 use-case IDs are not 27 validated independent defects.
+
+**Verification boundary:** File creation/update results need fresh read-back of the final state. A structural internal-link check is not a line-by-line academic review or external website audit. User-reported observations are not independently reproduced defects. No working cross-device UI, actual automated notification, invoice sender or always-on background process has been implemented.
+
+**Unfinished:** Historical sources for some original prompts and journal records, usability-testing data, duplicate Week 1 lesson consolidation, old SVG consistency and privacy resolution for public GitHub. Next session should inspect the updated index/status and continue from the last verified GitHub checkpoint.
