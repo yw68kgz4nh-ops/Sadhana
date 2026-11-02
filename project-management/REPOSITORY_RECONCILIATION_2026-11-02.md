@@ -20,6 +20,12 @@
 - Repaired the two broken relative links. Corrected active Week 1 status labelling and the mission brief's pointer to the indexed current working-philosophy v0.8.
 - Updated relevant README indexes.
 
+## Additional improvements saved during the same session
+- Expanded SA-UX-013–022 with scenario-specific expected flows, failure/recovery and evaluation criteria; read-back confirmed all ten.
+- Added [the Improvements Hub](../improvements/README.md) as a discoverable entrypoint; the canonical case files were not copied or moved.
+- Added [DEC-002 Human authority and constructive collaboration](../decisions/DEC-002_Human_Authority_and_AI_Collaboration.md).
+- After the earlier 88-file baseline, added further reports and navigation/governance files; a final recursive tree check is needed for the end-of-session count.
+
 ## Historical uncertainties kept visible
 1. The earlier **2026-10-26 inventory of 56 files across 16 directories** is a dated snapshot, not the present file count; it is preserved as historical evidence, not overwritten.
 2. Master working philosophy currently indexed as **v0.8**; earlier versions remain, and the consolidated task-prompt library is reconstructed rather than the original.
