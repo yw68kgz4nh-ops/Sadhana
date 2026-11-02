@@ -234,3 +234,18 @@ Recorded the learner's request for plain-language definitions and concrete examp
 - Clarified the design distinction between alternate names and related document types: “purchase order” may relate to an invoice workflow but should not automatically be treated as an invoice.
 - Clarified that command interfaces do not necessarily involve writing a programming language.
 - Updated the Lecture 3 lesson, session record, diary, and work log. The next review question is still open.
+
+
+---
+
+## 2026-11-02 — Sadhana evidence-aware repository backfill
+
+- Used connected GitHub tools to inspect the recursive repository tree and fetch the then-current 88 files for a basic structural/relative-link scan. Found two broken relative links and repaired them; this was not an external-source validity audit or academic fact-check.
+- Expanded the original SA-UX-001–005 documents using the 12-field use-case scheme while keeping existing text; created SA-UX-023–027 as draft proposals. The use-case index now covers 27 IDs, with overlap and evidence limitations stated.
+- Saved the floating-island task-state UI brief, assisted invoice/PO wizard brief, Week 1 status-visibility exercise reconstruction, and consolidated reconstructed prompts library. Updated related indexes.
+- Preserved status-specification v0.1 in archive; revised authoritative v0.2 to distinguish blue finished, amber in progress, red needs fixing and green checked/added, with human review and final-deliverable rules. Fixed Week 1 status wording.
+- Corrected archived image link and a work-log syllabus reference; updated founding brief link to indexed master philosophy v0.8.
+- Added 2026-11-02 improvement coverage matrix and bounded audit report. Source transcripts and independent tests remain open.
+- Public-repository privacy risk remains; no sensitive personal information intentionally added. No background agent was created or implied.
+
+**Further verification:** See fresh read-back checks and audit report. A commit is evidence of a GitHub write, not approval of the underlying design.
