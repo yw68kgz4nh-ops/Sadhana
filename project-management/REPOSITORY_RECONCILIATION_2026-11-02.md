@@ -24,7 +24,7 @@
 - Expanded SA-UX-013–022 with scenario-specific expected flows, failure/recovery and evaluation criteria; read-back confirmed all ten.
 - Added [the Improvements Hub](../improvements/README.md) as a discoverable entrypoint; the canonical case files were not copied or moved.
 - Added [DEC-002 Human authority and constructive collaboration](../decisions/DEC-002_Human_Authority_and_AI_Collaboration.md).
-- After the earlier 88-file baseline, added further reports and navigation/governance files; a final recursive tree check is needed for the end-of-session count.
+- After the earlier 88-file baseline, added further reports and navigation/governance files; the final recursive GitHub tree check confirmed **92 files across 20 directories**. The nine final hub/index/report paths were fetched again and all their relative links resolved.
 
 ## Historical uncertainties kept visible
 1. The earlier **2026-10-26 inventory of 56 files across 16 directories** is a dated snapshot, not the present file count; it is preserved as historical evidence, not overwritten.
@@ -42,6 +42,10 @@
 - Make an actual prototype and run a documented usability test rather than inferring validity from design confidence.
 - Reconcile status SVG, duplicated Week 1 lessons, and incomplete master prompts.
 - Obtain human review of the project charter, design conventions and key draft papers.
+
+## Final GitHub checkpoint
+
+**92 files / 20 directories** in the last recursive tree snapshot on 2026-11-02. The earlier 88-file structural pass tested all files existing at that point; newly created files and changed core indexes were then fetched and their relative links checked. **Known broken relative links after repair: none in the reviewed paths.** This is not proof that external URLs, link anchors, academic claims or every historical interpretation are correct.
 
 ## Evidence boundary
 This report records repository reads and successful GitHub writes in a specific session. It is not evidence of product engineering, clinical or financial validation, academic accreditation or uninterrupted background work.
