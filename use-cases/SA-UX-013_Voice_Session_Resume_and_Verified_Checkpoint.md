@@ -23,3 +23,17 @@ Reopen after interruption; choose Resume or Not now; verify thread and checkpoin
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: A user closes voice mode during Sadhana research and reopens the app, but a philosophy thread is shown. The interface must not assume that the last visually displayed chat was the intended research project.
+
+**Expected main flow:** Resume card shows exact Sadhana project, last task, source and checkpoint; user chooses Resume, Preview or Dismiss.
+
+**Failure and recovery:** A checkpoint may be absent or outdated: show 'Last verified step unknown' and search project chats rather than inventing continuity.
+
+**Evaluation:** Test five resumes after switching among two projects, including one deleted conversation. Count wrong-thread launches and steps to recover.
+
+**Related records:** SA-UX-001, SA-UX-010, SA-UX-025.
+
+**Evidence boundary:** This test case is based on the Sadhana user's discussion and a reconstructed design proposal. It remains untested; do not claim the product has these capabilities.
