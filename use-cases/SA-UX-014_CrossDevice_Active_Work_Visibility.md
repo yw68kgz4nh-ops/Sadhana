@@ -23,3 +23,17 @@ Start a task on desktop and inspect phone; disconnect either device; ensure no p
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: A document review is started on Windows and the person checks their iPhone. The phone should show the same task record, not assume the task is still running because the browser window remains open.
+
+**Expected main flow:** Show task state, last real update time, originating device, exact document link and whether a genuinely asynchronous service is active.
+
+**Failure and recovery:** If sync is unavailable, display 'status unknown or not refreshed' and allow manual refresh; never fabricate continued activity.
+
+**Evaluation:** Start, pause, fail and complete a test task across PC/phone; compare the two displays against authoritative server events.
+
+**Related records:** SA-UX-009, SA-UX-020, SA-UX-026.
+
+**Evidence boundary:** This test case is based on the Sadhana user's discussion and a reconstructed design proposal. It remains untested; do not claim the product has these capabilities.
