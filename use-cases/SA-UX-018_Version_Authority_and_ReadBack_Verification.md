@@ -16,3 +16,17 @@ Maintain one current-version pointer and changelog. Label drafted, committed, an
 
 ## Evidence
 Reconstructed from prior Sadhana conversations. Original transcripts, overlaps with SA-UX-009, and independent testing still require reconciliation.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: The repository contains versions 0.2–0.8 of the shared AI prompt, while indexes or a chat refer to different versions as 'current'.
+
+**Expected main flow:** Display one authoritative version pointer, preserved older versions, changelog and an exact GitHub path. Advance the pointer only after the new content and pointer have been fetched successfully.
+
+**Failure and recovery:** A write can return an error after partially succeeding; check the exact GitHub path/commit before retry. On failure, retain the last confirmed pointer.
+
+**Evaluation:** Test a concurrent edit, stale link, failed write, and back-and-forth version selection; assess whether participants can identify the true current version.
+
+**Related records:** SA-UX-002, SA-UX-009, SA-UX-017.
+
+**Evidence boundary:** The improvement is a design requirement captured retrospectively, not a verified software fix. Testing, provenance and any necessary expert review remain pending.
