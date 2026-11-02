@@ -7,7 +7,7 @@
 ## Pack status
 
 - 🟢 **DOCUMENTS CHECKED AND ADDED IN:** lesson papers and supporting materials listed below have been saved; the newly added files are being read back as part of this reconstruction.
-- 🔵 **LEARNING NOT YET COMPLETED:** preparing papers does not mean the lessons have been taught, attempted, marked, or mastered.
+- 🟠 **LEARNING IN PROGRESS / NOT ASSESSED:** preparing papers does not mean the lessons have been taught, attempted, marked, or mastered.
 
 Read each paper in order. Work at a comfortable pace; one session may be split over several shorter sittings. Spelling and polished terminology are not the main objective at this stage. The important thing is the quality of your reasoning and the evidence behind it.
 
@@ -55,11 +55,10 @@ You may answer by speaking or writing. We will not mark a lesson complete merely
 
 ## Status key used in Sadhana
 
-- 🔵 **COMPLETE — VERIFIED:** a defined outcome has been checked against its requirements.
-- 🟠 **IN PROGRESS / AWAITING VERIFICATION:** work is active or an outcome still needs checking.
-- 🔵 **FINISHED / COMPLETE:** the stated work has been finished.
-- 🟢 **CHECKED AND ADDED IN:** the result has been checked against requirements and added to the authoritative project record.
-- 🔴 **SOMETHING WRONG:** a problem, failure, or blocker needs attention.
+- **▲ AMBER TRIANGLE — IN PROGRESS / AWAITING CHECK:** work is active or an outcome still needs checking.
+- 🔵 **BLUE CIRCLE — FINISHED / COMPLETE:** the stated work has been finished; it is not necessarily checked or approved.
+- 🟢 **GREEN — CHECKED AND ADDED IN:** the result has been checked, with the check type recorded, and added to the authoritative project record.
+- 🟥 **RED SQUARE — SOMETHING WRONG:** a problem, failure, or blocker needs attention.
 
 The shape, colour, and written label work together. These markers in a paper are documentation conventions, not functioning software controls.
 
