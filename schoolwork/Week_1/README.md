@@ -19,6 +19,10 @@ Read each paper in order. Work at a comfortable pace; one session may be split o
 4. [Lesson 4 — Is AI the Right Tool for This Problem?](Lesson_04_When_AI_Is_Appropriate.md)
 5. [Lesson 5 — Week 1 Review and Design Brief](Lesson_05_Review_and_Design_Brief.md)
 
+## Recorded practical design work
+
+- [Visibility of System Status — 2026-11-01 exercise](Visibility_of_System_Status_Exercise_Record.md) — reconstructed exercise, learner's idea, critique, and open assessment questions.
+
 ## Supporting papers
 
 - [Week 1 Assignment Brief and Marking Rubric](Week_1_Assignment_Brief_and_Rubric.md)
