@@ -14,6 +14,8 @@
 - 🟠 **IN PROGRESS:** Original transcript/evidence reconciliation, overlapping use cases, duplicate Week 1 lesson directories, historical prompts, legacy SVG artwork, external reference checking and final human review.
 - 🟥 **NEEDS FIXING — PRIVACY:** Repository currently public; do not add sensitive project evidence until the project lead resolves visibility. No repository visibility change was made here.
 
+- 🟢 **CHECKED AND ADDED IN (navigation and governance):** An [Improvements Hub](../improvements/README.md) now links to the canonical 27 use cases without making duplicate copies, and [DEC-002](../decisions/DEC-002_Human_Authority_and_AI_Collaboration.md) records human approval boundaries.
+
 ## Historical task status (snapshot from 2026-10-26)
 
 - 🟢 **CHECKED AND ADDED IN** — File-by-file repository inventory created and read back: 56 files across 16 directories. This is an inventory/triage report, not a completed line-by-line content or link audit. See [File-by-File Repository Audit](FILE_BY_FILE_AUDIT_2026-10-26.md).
