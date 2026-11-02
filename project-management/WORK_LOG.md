@@ -251,3 +251,5 @@ Recorded the learner's request for plain-language definitions and concrete examp
 **Further verification:** See fresh read-back checks and audit report. A commit is evidence of a GitHub write, not approval of the underlying design.
 
 - Follow-up same-session backfill: strengthened SA-UX-013–022 with specific interaction/test scenarios and verified read-back; added `improvements/README.md` hub linking the canonical use-case folder and `decisions/DEC-002_Human_Authority_and_AI_Collaboration.md`. No duplicate copies of use cases were made.
+
+- Final 2026-11-02 recursive GitHub tree snapshot: 92 files across 20 directories. Re-fetched new improvements hub, human-authority decision and related indexes/reports; no broken relative links found in those reviewed paths. External URLs and substantive research findings remain unverified.
