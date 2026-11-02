@@ -23,3 +23,17 @@ Test nominal 30-second analysis, 60-second delay, cancelled task, failure, and i
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: A nominal 30-second document analysis overruns to a minute. An animated indicator may reassure but should not present a false countdown.
+
+**Expected main flow:** Provide accessible 'Analysing document' label, an estimated time only when based on real instrumentation; expand to delay message, then to verified result or failed/retry panel.
+
+**Failure and recovery:** If the job has stopped or is waiting for permission, do not continue animating it as running. Keep error reason only when known; preserve user input.
+
+**Evaluation:** Simulate regular, delayed, failed and interrupted runs with and without supported ETA; measure interpretation accuracy and false-working expectations.
+
+**Related records:** SA-UX-009, SA-UX-023, research/design-specs/Floating_Island_Task_State_UI_v0.1.md.
+
+**Evidence boundary:** The improvement is a design requirement captured retrospectively, not a verified software fix. Testing, provenance and any necessary expert review remain pending.
