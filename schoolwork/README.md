@@ -14,6 +14,8 @@ Follow the published Spring 2026 topic order for CMU's Human–AI Interaction co
 - [Five Core Terms — Revision Card](Week_1/Core_Five_Terms_Revision_Card.md)
 - [2026-11-01 lesson record and resume checkpoint](Week_1/Session_2026-11-01_Human_AI_Interaction.md)
 
+- [Visibility of System Status — learner's design exercise and critique](Week_1/Visibility_of_System_Status_Exercise_Record.md) — proposed circular/expanding analysis indicator and discussion of credible time estimates.
+
 **Save after each session:** Save learning materials, exercises, learner responses, feedback, revision cards, agreed course decisions and the next checkpoint here; link them from the relevant index and read them back before reporting successful saving. If saving fails, state what remains unsaved. Do not rely on conversation memory as the durable project record.
 
 ## Earlier beginner learning pack
