@@ -6,6 +6,10 @@ This folder holds the project's scope, working agreements, current status, work 
 
 - [Shared Task Status and Colour System v0.2](Task_Status_and_Colour_System.md) — resolves blue completed versus green checked-and-added, shape labels, human review and clean final artifacts; [previous v0.1 archived](../archive/Task_Status_and_Colour_System_v0.1_preserved_2026-11-02.md).
 
+## Latest repository check
+
+- [2026-11-02 Backfill and Bounded Link Audit](REPOSITORY_RECONCILIATION_2026-11-02.md) — 88-file starting snapshot, added work, corrected links, open evidence and research questions.
+
 ## Core records
 
 - [File-by-file repository audit — 2026-10-26](FILE_BY_FILE_AUDIT_2026-10-26.md) — current 56-file inventory, verified updates, known issues, and remaining audit work.
