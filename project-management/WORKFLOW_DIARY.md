@@ -585,3 +585,5 @@ In the History of AI & HCI lesson, the learner noticed that a fixed search for â
 **Verification boundary:** File creation/update results need fresh read-back of the final state. A structural internal-link check is not a line-by-line academic review or external website audit. User-reported observations are not independently reproduced defects. No working cross-device UI, actual automated notification, invoice sender or always-on background process has been implemented.
 
 **Unfinished:** Historical sources for some original prompts and journal records, usability-testing data, duplicate Week 1 lesson consolidation, old SVG consistency and privacy resolution for public GitHub. Next session should inspect the updated index/status and continue from the last verified GitHub checkpoint.
+
+**Further same-session note:** All shorter SA-UX-013â€“022 drafts gained test oracles and their contents were fetched back successfully. The new `improvements/README.md` is a navigation hub, not a second store of copied use-case files. DEC-002 captures human control of naming, authorial narrative, modality and consequential AI actions pending review.
