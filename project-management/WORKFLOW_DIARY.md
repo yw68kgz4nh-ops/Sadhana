@@ -587,3 +587,5 @@ In the History of AI & HCI lesson, the learner noticed that a fixed search for â
 **Unfinished:** Historical sources for some original prompts and journal records, usability-testing data, duplicate Week 1 lesson consolidation, old SVG consistency and privacy resolution for public GitHub. Next session should inspect the updated index/status and continue from the last verified GitHub checkpoint.
 
 **Further same-session note:** All shorter SA-UX-013â€“022 drafts gained test oracles and their contents were fetched back successfully. The new `improvements/README.md` is a navigation hub, not a second store of copied use-case files. DEC-002 captures human control of naming, authorial narrative, modality and consequential AI actions pending review.
+
+**Final file checkpoint:** The end-of-session GitHub tree showed 92 files across 20 directories. The 88-file structural scan was a baseline before four later documents; newly created and changed high-priority records were separately fetched again. This counts durable repository files, not 92 fully reviewed research findings.
