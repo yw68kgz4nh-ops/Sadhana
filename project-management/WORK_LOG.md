@@ -249,3 +249,5 @@ Recorded the learner's request for plain-language definitions and concrete examp
 - Public-repository privacy risk remains; no sensitive personal information intentionally added. No background agent was created or implied.
 
 **Further verification:** See fresh read-back checks and audit report. A commit is evidence of a GitHub write, not approval of the underlying design.
+
+- Follow-up same-session backfill: strengthened SA-UX-013–022 with specific interaction/test scenarios and verified read-back; added `improvements/README.md` hub linking the canonical use-case folder and `decisions/DEC-002_Human_Authority_and_AI_Collaboration.md`. No duplicate copies of use cases were made.
