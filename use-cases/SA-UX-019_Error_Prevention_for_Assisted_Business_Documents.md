@@ -23,3 +23,17 @@ Test wrong folder, missing discount, unknown customer, unavailable parts, and at
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: A proforma for one customer is accidentally directed to a different client's folder; a client discount has not been validated; the AI suggests ordering unavailable parts.
+
+**Expected main flow:** Wizard validates client, work, discount and tax; shows a folder mismatch warning and moves focus to unverified discount. Parts comparison can be proposed, but buying, sending and invoice conversion require human approval.
+
+**Failure and recovery:** A Save error retains draft data and shows separate states for local draft, stored file, email sent and paid; no silent retry of consequential actions.
+
+**Evaluation:** Use fictional customer data. Test folder mismatch, missing discount, two matching contacts, absent parts, VAT override and proforma conversion; verify each safeguard.
+
+**Related records:** SA-UX-022, research/case-studies/Assisted_Invoice_PO_Wizard_Requirements_v0.1.md.
+
+**Evidence boundary:** The improvement is a design requirement captured retrospectively, not a verified software fix. Testing, provenance and any necessary expert review remain pending.
