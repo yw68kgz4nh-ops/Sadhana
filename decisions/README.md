@@ -6,6 +6,8 @@ Record significant project decisions and the reasoning behind them. Keep unresol
 
 - [DEC-001 — GitHub as the Authoritative Project Record](DEC-001_Repository_as_Authoritative_Project_Record.md) — use GitHub as the durable source of truth for appropriate project artefacts; preserve provenance, avoid competing copies, and verify writes.
 
+- [DEC-002 — Human authority and constructive AI collaboration](DEC-002_Human_Authority_and_AI_Collaboration.md) — preserve human control of substantive and consequential decisions while inviting independent critique.
+
 ## Decision template
 
 - **ID and title:**
