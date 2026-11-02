@@ -33,6 +33,16 @@ Record observed user needs, friction, limitations, failures, and opportunities f
 
 These additions are design proposals reconstructed from past conversations, not independently verified product defects. Review for overlap with the original 12 cases before consolidation.
 
+## Additional targeted use cases (2026-11-02)
+
+- [SA-UX-023 — Floating Island Task Progress Dashboard](SA-UX-023_Floating_Island_Task_Progress_Dashboard.md) — measured percentages and visible real task state.
+- [SA-UX-024 — Status Metadata Hidden From Final Deliverables](SA-UX-024_Status_Metadata_Hidden_From_Final_Deliverables.md) — preserve the audit without contaminating final papers.
+- [SA-UX-025 — Project Search Return and Navigation Context](SA-UX-025_Project_Search_Return_and_Navigation_Context.md) — return to the original project and voice/task state.
+- [SA-UX-026 — Cross-Device Completion Notification and Result Preview](SA-UX-026_CrossDevice_Completion_Notification_and_Result_Preview.md) — optional genuine async-completion notice and saved artifact preview.
+- [SA-UX-027 — Preference Reuse With Context Boundaries](SA-UX-027_Preference_Reuse_With_Context_Boundaries.md) — preserve explicit human preferences without overgeneralising inferred patterns.
+
+The first five historic use cases (SA-UX-001–005) were expanded on 2026-11-02 using the twelve-field structure. All additional case records remain draft product proposals until original evidence is reconciled and tests are run.
+
 ## Record fields
 
 - Intended outcome and context
