@@ -1,11 +1,20 @@
 # Sadhana — Current Status
 
-**Last updated:** 2026-10-26  
+**Last updated:** 2026-11-02  
 **Repository:** https://github.com/yw68kgz4nh-ops/Sadhana  
 **Visibility:** Public — keep confidential and sensitive material out.  
-**Status key (project convention):** 🔴 **SOMETHING WRONG** · 🟠 **RUNNING / IN PROGRESS** · 🔵 **FINISHED / COMPLETE** · 🟢 **CHECKED AND ADDED IN**. Use the written label as well as the colour. A finished draft is not automatically validated research or completed learning.
+**Status key (project convention):** 🟥 **RED SQUARE — NEEDS FIXING** · **▲ AMBER TRIANGLE — IN PROGRESS** · 🔵 **BLUE CIRCLE — COMPLETE** · 🟢 **GREEN — CHECKED AND ADDED IN**. Use the written label as well as the colour. A finished draft is not automatically validated research or completed learning.
 
-## Current task status
+## Current checkpoint — 2026-11-02
+
+- 🟢 **CHECKED AND ADDED IN (repository level):** GitHub `main` contained 88 files at the start of the 2026-11-02 comprehensive structural scan. Two broken relative links were found and corrected. Subsequent new documents increased the repository size; the earlier count is a dated audit baseline, not a live counter. See [the audit report](REPOSITORY_RECONCILIATION_2026-11-02.md).
+- 🔵 **COMPLETE (draft capture):** Expanded SA-UX-001–005 and created SA-UX-023–027. The [use-case index](../use-cases/README.md) now enumerates 27 records. The improvements themselves are **not** implemented or tested.
+- 🔵 **COMPLETE (draft capture):** Saved floating-island task-state specification, invoice/PO wizard case study, Week 1 visibility exercise and a single consolidated **reconstructed** prompts document.
+- 🟢 **CHECKED AND ADDED IN (governance document):** Preserved v0.1 status spec, revised v0.2 for blue finished / green checked-and-added, and repaired the Week 1 status key; usability test still pending.
+- 🟠 **IN PROGRESS:** Original transcript/evidence reconciliation, overlapping use cases, duplicate Week 1 lesson directories, historical prompts, legacy SVG artwork, external reference checking and final human review.
+- 🟥 **NEEDS FIXING — PRIVACY:** Repository currently public; do not add sensitive project evidence until the project lead resolves visibility. No repository visibility change was made here.
+
+## Historical task status (snapshot from 2026-10-26)
 
 - 🟢 **CHECKED AND ADDED IN** — File-by-file repository inventory created and read back: 56 files across 16 directories. This is an inventory/triage report, not a completed line-by-line content or link audit. See [File-by-File Repository Audit](FILE_BY_FILE_AUDIT_2026-10-26.md).
 
