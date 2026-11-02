@@ -33,7 +33,7 @@ Every entry should distinguish work that was discussed, drafted, attempted, comp
 
 ### Completed and verified
 - Reviewed public university module descriptions for UX/interaction design and HCI from the Universities of Leeds, Edinburgh, Bath, Kent, and Cardiff.
-- Created [UI/UX First-Month Syllabus — Research Draft](../research/UI_UX_First_Month_Syllabus_Research_Draft.md), with four weeks of learning, practical deliverables, a beginner feedback rubric, source links, and explicit limitations.
+- Created [UI/UX First-Month Syllabus — Research Draft](../schoolwork/archive/Previous_Multi_University_Syllabus_Superseded.md), with four weeks of learning, practical deliverables, a beginner feedback rubric, source links, and explicit limitations.
 - Indexed the syllabus draft in the research README.
 - Read back the new syllabus and checked the updated status/index content.
 
