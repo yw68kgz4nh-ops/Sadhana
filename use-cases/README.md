@@ -2,6 +2,8 @@
 
 Record observed user needs, friction, limitations, failures, and opportunities for improvement. These records distinguish reported observations from verified facts and proposed solutions.
 
+The [Improvements Hub](../improvements/README.md) provides a single navigation point, while these files remain the canonical case records.
+
 ## Current records
 
 - [SA-UX-001 — Conversation Identity and Continuity](SA-UX-001_Conversation_Identity_and_Continuity.md) — identifying and resuming the correct conversation.
