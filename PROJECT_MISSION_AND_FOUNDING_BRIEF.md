@@ -4,7 +4,7 @@
 **Version:** 0.1  
 **Date:** 2026-10-21  
 **Document type:** Project-level founding brief  
-**Related records:** [Sadhana README](README.md), [Why We Chose the Name Sadhana](Sadhana_Name_and_Meaning.md), [Human–AI Working Partnership research question](research/SA-RESEARCH-001_Human_AI_Working_Partnership.md), [Shared AI Working Philosophy](prompts/master/Shared_AI_Working_Philosophy_v0.5.md)
+**Related records:** [Sadhana README](README.md), [Why We Chose the Name Sadhana](Sadhana_Name_and_Meaning.md), [Human–AI Working Partnership research question](research/SA-RESEARCH-001_Human_AI_Working_Partnership.md), [Shared AI Working Philosophy](prompts/master/Shared_AI_Working_Philosophy_v0.8.md)
 
 ## 1. Mission
 
@@ -129,6 +129,10 @@ We will treat each meaningful interaction as an opportunity to learn, but not ev
 **Sadhana is a place to land, learn, and move forward — by turning real experience into careful investigation, better design, and verified improvement.**
 
 ---
+
+## Index maintenance note — 2026-11-02
+
+The master-working-philosophy link above was updated to the current indexed version v0.8. This is a link-maintenance edit, not approval or substantive revision of the founding brief. The original draft still awaits the project lead's review. The four-colour specification is maintained in [Task Status and Colour System v0.2](project-management/Task_Status_and_Colour_System.md).
 
 ## Review record
 
