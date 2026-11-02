@@ -24,7 +24,7 @@ The shape is part of the status, not decoration. The shape metaphors are project
 
 The three status markers are shown together below as a small interface mock-up. The visual is a design aid for reviewing papers and project documents; it is not a live or automatic status tracker.
 
-![Sadhana task status mini UI: blue circle, amber triangle, red square](assets/task-status-mini-ui.svg)
+![Sadhana task status mini UI: blue circle, amber triangle, red square](../project-management/assets/task-status-mini-ui.svg)
 
 | Marker | Operational meaning | Proposed design rationale (a convention to test, not a universal law) |
 |---|---|---|
