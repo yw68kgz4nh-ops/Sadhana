@@ -23,3 +23,17 @@ Transfer multi-file package with nested directories and long document; deliberat
 
 ## Evidence and follow-up
 Reconstructed from prior Sadhana discussions; obtain original dated conversation excerpts and independent product tests before marking verified. Check for overlaps with SA-UX-001–012 and consolidate where necessary rather than counting duplicates as separate defects.
+
+## Detailed scenario and test oracle — added 2026-11-02
+
+**Scenario:** Example: A long Claude critique or ZIP is pasted into ChatGPT but half the text disappears; user incorrectly believes both assistants reviewed the complete material.
+
+**Expected main flow:** Exchange a manifest: filename, declared length/size, version, source and a checksum if available. After transfer, compare actual content and show missing/truncated items before downstream critique.
+
+**Failure and recovery:** If checksum or complete source is unavailable, label completeness unverified and do not give a confident 'full document reviewed' claim.
+
+**Evaluation:** Transfer a multi-file archive including a deliberately truncated item and repeated filenames; measure detection, recovery and source traceability.
+
+**Related records:** SA-UX-011, SA-UX-018.
+
+**Evidence boundary:** This test case is based on the Sadhana user's discussion and a reconstructed design proposal. It remains untested; do not claim the product has these capabilities.
