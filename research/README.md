@@ -13,6 +13,10 @@ Research questions, literature reviews, findings, and synthesis for the Sadhana 
 
 - [SA-UX-006 — Active Thread Indicator and Long-Press Context Preview](use-cases/SA-UX-006_Thread_Context_Preview_and_Active_Thread_Indicator.md) — highlight the active conversation and preview another thread's purpose and latest work without opening it.
 
+## Cross-project improvement coverage
+
+- [Improvement Coverage Matrix — 2026-11-02](Improvement_Coverage_Matrix_2026-11-02.md) — traceable mapping of 27 use cases by research theme, overlap and next tests.
+
 ## New design and workflow case studies
 
 - [Floating Island task-state interface — specification v0.1](design-specs/Floating_Island_Task_State_UI_v0.1.md) — user-origin progress and recovery concept, measurement rules, accessible states and alternative to test.
